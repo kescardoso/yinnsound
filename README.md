@@ -46,11 +46,11 @@ A female english-speaking expat in the South of France, who relocated with her h
 
 - I want to get to know the teachers in this training, and so I click on the MENTORS item on the menu to automatically scroll down the page and see their bio and profile photo.
 
-- I am ready to enroll in this local training, and so I click on the ENROLL button on the menu bar, or  the REGISTER NOW button on the hero image, to automatically scroll down the page and find there registration form with online payment.
+- I am ready to enroll in this local training, and so I click on the ENROLL / CONTACT button on the menu bar, or the REGISTER NOW button on the hero image, to automatically scroll down the page and find there registration form with online payment.
 
-- I want to inquire about enrollment in this training, and so I click on the ENROLL button on the menu bar, or  the REGISTER NOW button on the hero image, to automatically scroll down the page and find the INQUIRE NOW button  to get in touch with the staff.
+- I want to inquire about enrollment in this training, and so I click on the ENROLL / CONTACT button on the menu bar, or the REGISTER NOW button on the hero image, to automatically scroll down the page and find the INQUIRE NOW button and get in touch with the staff.
 
-- I am very interested in the training while I get to the bottom of the page into the registration section, but I am not yet ready to enroll, and so I click on the NEWSLETTER to get access to a external page or pop-up box with a sign up form to receive news via email related to this training.
+- I am very interested in the training while I get to the bottom of the page into the registration section, but I am not yet ready to enroll, and so I click on the NEWSLETTER button to sign up to receive news via email related to this training.
 
 ### 4. Important Links on my Development Process —
 
