@@ -1,16 +1,16 @@
 # Project: YIN & SOUND IN THE SOUTH
 
-My first milestone project is actually a prototype for a real product: A a static (front-end only) website for our Yin-Yoga and Sound Healing Training Immersion in the South of France. Besides being student at Code Institute and future Software Developer Extraordinaire, I have been a Yoga Teacher and Sound Therapist for the past 5 years here in France.
+My first milestone project is actually a prototype for a real product: A static website for our Yin-Yoga and Sound Healing Training Immersion in the South of France. Besides being student at Code Institute and future Software Developer Extraordinaire, I have been a Yoga Teacher and Sound Therapist for the past 5 years here in France.
 
 One of my personal dreams has been to create my own retreats and immersive experience-training programs for aspiring yoga teachers and sound healing practitioners. In the beginning of 2019 I encountered the perfect partner (a sister-like yoga teacher and entrepreneur with a bunch of experience and a lot of love in her heart!) and the perfect location (a permaculture retreat center in the French Alps, one-hour drive from Nice!). On this first phase of project development we are doing everything ourselves to keep costs and base-investments low, and I am in charge of web development and digital communications (using my web developing skills and previous marketing experience). 
 
-For this project I will be wire-framing on Figma and using Cloud9, GitHub and GitHub Pages for developing a Bootstrap4 based website.
+For this project I will be wire-framing on Figma and using Cloud9, GitHub and GitHub Pages for developing a Bootstrap4 mobile-first website.
 
 
 
 ## My UX Process and Strategy
 
-### 1. Who
+### 1. Who is our target client (avatar)
 
 #### This website is targeted to:
 - Qualified and aspiring yoga teachers, wishing to improve their skills and teach Yin Yoga with Sound Healing in their communities;
@@ -52,15 +52,8 @@ A female English-speaking expat in the South of France, who relocated with her h
 
 - I am very interested in the training while I get to the bottom of the page into the registration section, but I am not yet ready to enroll, and so I click on the NEWSLETTER button to sign up to receive future news via email related to this training.
 
-### 4. Important Links on my Development Process
-
-- Final Version deployed to GitHubPages:
+### 4. Important Links for my UX Process
 
 - Wireframe on Figma:
 https://www.figma.com/proto/SBGSRVoWq5737gajqHsn5VjN/YT?node-id=0%3A1&scaling=min-zoom
-
-- Stock Free Images from Unsplash:
-Mountain Range https://unsplash.com/photos/mMzVTy2V1Do
-Forest Girl https://unsplash.com/photos/yIEN_h5ZC58
-Orange Cat https://unsplash.com/photos/XpiPvnx0H5M
-Sunset https://unsplash.com/photos/I2YSmEUAgDY
+This was my first wireframing experience and it was very positive. It took me sometime and frustration to learn how to use Figma, but once I understood it, wireframing became a necessary must. After finishing my wireframed mockup website, I felt secure about going into development because I knew exactly the fonts, colors, layouts and the appearance I was going to achieve through developing on Bootstrap. I feel wirefraning is a time saver, a space where I can make all the design tests and decisions as well as UX mistakes and fixes, so the developing phase is guided and smooth.
