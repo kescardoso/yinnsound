@@ -52,8 +52,93 @@ A female English-speaking expat in the South of France, who relocated with her h
 
 - I am very interested in the training while I get to the bottom of the page into the registration section, but I am not yet ready to enroll, and so I click on the NEWSLETTER button to sign up to receive future news via email related to this training.
 
-### 4. Important Links for my UX Process
+### 4. My WireFrame on Figma (link)
 
-- Wireframe on Figma:
 https://www.figma.com/proto/SBGSRVoWq5737gajqHsn5VjN/YT?node-id=0%3A1&scaling=min-zoom
+
 This was my first wireframing experience and it was very positive. It took me sometime and frustration to learn how to use Figma, but once I understood it, wireframing became a necessary must. After finishing my wireframed mockup website, I felt secure about going into development because I knew exactly the fonts, colors, layouts and the appearance I was going to achieve through developing on Bootstrap. I feel wirefraning is a time saver, a space where I can make all the design tests and decisions as well as UX mistakes and fixes, so the developing phase is guided and smooth.
+
+
+## Features
+
+In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+ 
+### 1. Existing Features
+
+(- Feature # - allows users X to achieve Y, by having them fill out Z)
+- Feature 1: Inquire Button and Contact Form
+- Feature 2: Enroll Button 
+- Feature 3: Newsletter Button
+
+For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
+
+In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+
+### 2. Features Left to Implement
+
+- Another feature idea
+
+
+
+## Technologies Used
+
+In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+- [JQuery](https://jquery.com)
+    - The project uses **JQuery** to simplify DOM manipulation.
+
+- Framework used: Bootstrap4 — Bootstrap has an undeniable power and flexibility, and has great documentation; I used Bootstrap for it’s practicality and cleanliness, as well as because responsiveness is a priority for this project (having a mobile-first design was important for reaching and communicating with the target client)
+
+
+
+## Testing
+
+In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+
+Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
+
+For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
+
+1. Contact form:
+    1. Go to the "Contact Us" page
+    2. Try to submit the empty form and verify that an error message about the required fields appears
+    3. Try to submit the form with an invalid email address and verify that a relevant error message appears
+    4. Try to submit the form with all inputs valid and verify that a success message appears.
+
+In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+
+You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+
+If this section grows too long, you may want to split it off into a separate file and link to it from here.
+
+
+
+## Deployment
+
+This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+
+In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
+- Different values for environment variables (Heroku Config Vars)?
+- Different configuration files?
+- Separate git branch?
+
+In addition, if it is not obvious, you should also describe how to run your code locally.
+
+- Final Version deployed to GitHubPages:
+
+
+
+## Credits
+
+### Content
+- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+
+### Media
+- Part of the photos used in this site are owned by me and my partner
+- These photos below are stock-free images obtained from Unsplash:
+	- (1) Mountain Range https://unsplash.com/photos/mMzVTy2V1Do
+	- (2) Forest Girl https://unsplash.com/photos/yIEN_h5ZC58
+	- (3) Orange Cat https://unsplash.com/photos/XpiPvnx0H5M
+	- (4) Sunset https://unsplash.com/photos/I2YSmEUAgDY
+
+### Acknowledgements
+- I received inspiration for this project from X
