@@ -1,0 +1,140 @@
+body {
+    padding-top: 56px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+}
+
+
+
+/*Navigation*/
+
+
+
+/*Jumbotron*/
+
+.h-jumbotron {
+    font-family: 'Rasa', serif;
+    font-size: 40px;
+    font-weight: 500;
+    color: #FFF;
+    margin-bottom: 30px;
+}
+
+.lead {
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+    color: #F9F1EE;
+}
+
+.jumbotron {
+    background-color: transparent;
+}
+
+.opaque-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.25);
+}
+
+
+
+/*Headers & Paragraphs*/
+
+.joinus {
+    font-family: 'Rasa', serif;
+    font-size: 30px;
+    font-weight: 300;
+    color: #14494B;
+    margin-top: 75px;
+}
+
+h2 {
+    color: #2C2F23;
+    font-weight: 400;
+    font-size: 24px;
+    letter-spacing: 2px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.h-standout {
+    font-family: 'Rasa', serif;
+    color: #14494B;
+    font-weight: 300;
+}
+
+.fancyTitle {
+    margin-top: 40px;
+    margin-bottom: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+h3 {
+    color: #2C2F23;
+    font-weight: 400;
+    font-size: 18px;
+    letter-spacing: 2px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+
+
+/*Buttons*/
+
+
+
+/*Containers*/
+
+.container {
+    margin-bottom: 15px;
+}
+
+.callout-container{
+    height: 100vh;
+    
+    background: url('../images/Hero.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
+
+.joinus-container {
+    
+}
+
+.mentors-container {
+    
+}
+
+.program-container {
+    
+}
+
+.schedule-container {
+    
+}
+
+.location-container {
+    
+}
+
+.price-container {
+    
+}
+
+.enroll-container {
+    
+}
