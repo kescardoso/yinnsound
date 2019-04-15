@@ -76,7 +76,10 @@ In addition, you may also use this section to discuss plans for additional featu
 
 ### 2. Features Left to Implement
 
-- Another feature idea
+- Contact Form
+- Mailcnimp Form as Modal
+- PayPal payment method
+
 
 
 
@@ -87,6 +90,8 @@ In this section, you should mention all of the languages, frameworks, libraries,
     - The project uses **JQuery** to simplify DOM manipulation.
 
 - Framework used: Bootstrap4 — Bootstrap has an undeniable power and flexibility, and has great documentation; I used Bootstrap for it’s practicality and cleanliness, as well as because responsiveness is a priority for this project (having a mobile-first design was important for reaching and communicating with the target client)
+- Bootstrap4 CSS  — Used for web design in tyling and branding.
+- Bootstrap JS — Used for responsiveness, modals, read more collapsing button, smooth scrolling navigation.
 
 
 
@@ -129,8 +134,11 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 ## Credits
 
-### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+### Code
+1. The smooth scrolling navigation with JQuery was used from Kevin Powell
+	- Youtube Tutorial: https://www.youtube.com/watch?v=x0YnVwAuNQI
+	-  Code Pen Repository: https://codepen.io/kevinpowell/pen/dWzGox
+2. Simple modal contact form from: https://mdbootstrap.com/docs/jquery/modals/forms/
 
 ### Media
 - Part of the photos used in this site are owned by me and my partner
@@ -141,4 +149,4 @@ In addition, if it is not obvious, you should also describe how to run your code
 	- (4) Sunset https://unsplash.com/photos/I2YSmEUAgDY
 
 ### Acknowledgements
-- I received inspiration for this project from X
+- I received inspiration for this project from 
