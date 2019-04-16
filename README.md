@@ -65,22 +65,20 @@ A female English-speaking expat in the South of France, who relocated with her h
 
 
 ## Features
-
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
  
 ### 1. Existing Features
 
-- Feature 1: Responsive and Fixed Top Navbar: allows user to go over the entire content and find precisely whet they need with automatic scroll/jump on page.
+- **Feature 1 - Responsive and Fixed Top Navbar:** allows user to go over the entire content and find precisely whet they need with automatic scroll/jump on page.
 
-- Feature 2: Inquire/Contact Button with Modal: allows user to send an inquire or contact the staff/mentors with a responsive pop-up contact form (modal).
+- **Feature 2 - Inquire/Contact Button with Modal:** allows user to send an inquire or contact the staff/mentors with a responsive pop-up contact form (modal).
 
-- Feature 3: Enroll Button: allows user to register by sending secured online payment via PayPal (PayPal integration to be installed).
+- **Feature 3 - Enroll Button:** allows user to register by sending secured online payment via PayPal (PayPal integration to be installed).
 
-- Feature 3: Newsletter Button: allows user to sign up to our mailing list via mail chimp with a popup form (modal has integration with Mailchimp).
+- **Feature 3 - Newsletter Button:** allows user to sign up to our mailing list via mail chimp with a popup form (modal has integration with Mailchimp).
 
 ### 2. Features Left to Implement
 
-- PayPal payment method: to have a modal (when clicking on the Enroll Now button) with 4 PayPal buttons integrated inside the modal (buttons according to the 4 package price options) that link directly to PayPal checkout for secure card processing.
+- **PayPal payment method:** to have a modal (when clicking on the Enroll Now button) with 4 PayPal buttons integrated inside the modal (buttons according to the 4 package price options) that link directly to PayPal checkout for secure card processing.
 
 
 
