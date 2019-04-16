@@ -128,21 +128,23 @@ In particular, you should provide all details of the differences between the dep
 
 In addition, if it is not obvious, you should also describe how to run your code locally.
 
-- Final Version deployed to GitHubPages:
+- Final Version deployed to GitHubPages: https://kescardoso.github.io/milestone1-yinsoundsouth/
 
 
 
 ## Credits
 
 ### Code
-1. The smooth scrolling navigation with JQuery was used from Kevin Powell
+1. The smooth scrolling navigation with JQuery was used from Kevin Powell:
 	- Youtube Tutorial: https://www.youtube.com/watch?v=x0YnVwAuNQI
 	-  Code Pen Repository: https://codepen.io/kevinpowell/pen/dWzGox
 2. Simple modal contact form from: https://mdbootstrap.com/docs/jquery/modals/forms/
+3. Mailchimp Sign up form on modal from Mailchimp and Bootstrapious: 
+	- Mailchimp: https://mailchimp.com
+	- Bootstrapious: https://bootstrapious.com/p/mailchimp-signup-form
 
 ### Media
-- Part of the photos used in this site are owned by me and my partner
-- These photos below are stock-free images obtained from Unsplash:
+These photos below are stock-free images obtained from Unsplash:
 	- (1) Mountain Range https://unsplash.com/photos/mMzVTy2V1Do
 	- (2) Forest Girl https://unsplash.com/photos/yIEN_h5ZC58
 	- (3) Orange Cat https://unsplash.com/photos/XpiPvnx0H5M

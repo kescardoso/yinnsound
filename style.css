@@ -2,15 +2,16 @@ body {
     padding-top: 56px;
     font-family: 'Lato', sans-serif;
     font-weight: 300;
+    letter-spacing: 1px;
 }
 
 
 
-/*Navigation*/
+/* Navigation */
 
 
 
-/*Jumbotron*/
+/* Jumbotron */
 
 .h-jumbotron {
     font-family: 'Rasa', serif;
@@ -22,9 +23,10 @@ body {
 
 .lead {
     font-family: 'Lato', sans-serif;
-    font-weight: 700;
-    font-size: 22px;
+    font-weight: 900;
+    font-size: 20px;
     color: #F9F1EE;
+    letter-spacing: 2px;
 }
 
 .jumbotron {
@@ -42,14 +44,15 @@ body {
 
 
 
-/*Headers & Paragraphs*/
+/* Headers & Paragraphs */
 
 .joinus {
     font-family: 'Rasa', serif;
     font-size: 30px;
     font-weight: 300;
+    letter-spacing: 1px;
     color: #14494B;
-    margin-top: 75px;
+    margin-top: 95px;
 }
 
 h2 {
@@ -69,9 +72,7 @@ h2 {
 
 .fancyTitle {
     margin-top: 40px;
-    margin-bottom: 15px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    margin-bottom: 10px;
 }
 
 h3 {
@@ -79,17 +80,33 @@ h3 {
     font-weight: 400;
     font-size: 18px;
     letter-spacing: 2px;
-    margin-top: 20px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+h4 {
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 2px;
+    margin-top: 10px;
     margin-bottom: 10px;
 }
 
 
 
-/*Buttons*/
+/* Buttons */
+
+.btn--register {
+    color: #14494B;
+    font-weight: 700;
+    border-radius: 25px;
+    background-color: #F9F1EE;
+    width: 180px;
+}
 
 
 
-/*Containers*/
+/* Containers */
 
 .container {
     margin-bottom: 15px;
@@ -111,30 +128,16 @@ h3 {
     position: relative;
 }
 
-.joinus-container {
-    
+
+
+/* Schedule Container */
+
+.scheduleDay {
+    margin-right: 10px;
+    margin-left: 10px;
 }
 
-.mentors-container {
-    
-}
-
-.program-container {
-    
-}
-
-.schedule-container {
-    
-}
-
-.location-container {
-    
-}
-
-.price-container {
-    
-}
-
-.enroll-container {
-    
+.scheduleDay p{
+    font-size: 14px;
+    line-height: 18px;
 }
