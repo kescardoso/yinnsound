@@ -4,11 +4,14 @@ My first milestone project is actually a prototype for a real product: A static 
 
 One of my personal dreams has been to create my own retreats and immersive experience-training programs for aspiring yoga teachers and sound healing practitioners. In the beginning of 2019 I encountered the perfect partner (a sister-like yoga teacher and entrepreneur with a bunch of experience and a lot of love in her heart!) and the perfect location (a permaculture retreat center in the French Alps, one-hour drive from Nice!). On this first phase of project development we are doing everything ourselves to keep costs and base-investments low, and I am in charge of web development and digital communications (using my web developing skills and previous marketing experience). 
 
-For this project I will be wire-framing on Figma and using Cloud9, GitHub and GitHub Pages for developing a Bootstrap4 mobile-first website.
+For this project I Wireframed on Figma and used Cloud9, GitHub and GitHub Pages for developing a Bootstrap4 mobile-first responsive website (all links and credits below).
+
+Thanks for appreciating this project with me :)
+Kes Cardoso.
 
 
 
-## My UX Process and Strategy
+## My UX Process
 
 ### 1. Who is our target client (avatar)
 
@@ -21,6 +24,8 @@ For this project I will be wire-framing on Figma and using Cloud9, GitHub and Gi
 - French and International clients (mostly from: Europe and USA) ranging from 25-55 years old;
 - English-speaking expats living in the South of France (Nice, Antibes, Cannes, Monaco, Menton and surrounding areas, as well as Paris);
 - Our current yoga students and clients from Nice and surrounding area (already introduced to our business);
+
+#### Our Client Avatar
 - Our main client-avatar is: females between 30-45 years old who are interested in: yoga, alternative medicines, hiking, outdoor activities, vegetarian and organic food, ecological affairs, and mainstream spirituality.
 
 ### 2. What is our client looking to achieve
@@ -54,9 +59,9 @@ A female English-speaking expat in the South of France, who relocated with her h
 
 ### 4. My WireFrame on Figma (link)
 
-https://www.figma.com/proto/SBGSRVoWq5737gajqHsn5VjN/YT?node-id=0%3A1&scaling=min-zoom
+- [Link to my Wireframe on Figma](https://www.figma.com/proto/SBGSRVoWq5737gajqHsn5VjN/YT?node-id=0%3A1&scaling=min-zoom)
+	- This was my first wireframing experience and it was very positive. It took me sometime and frustration to learn how to use Figma, but once I understood it, wireframing became a necessary must. After finishing my wireframed mockup website, I felt secure about going into development because I knew exactly the fonts, colors, layouts and the appearance I was going to achieve through developing on Bootstrap. I feel wirefraning is a time saver, a space where I can make all the design tests and decisions as well as UX mistakes and fixes, so the developing phase is guided and smooth.
 
-This was my first wireframing experience and it was very positive. It took me sometime and frustration to learn how to use Figma, but once I understood it, wireframing became a necessary must. After finishing my wireframed mockup website, I felt secure about going into development because I knew exactly the fonts, colors, layouts and the appearance I was going to achieve through developing on Bootstrap. I feel wirefraning is a time saver, a space where I can make all the design tests and decisions as well as UX mistakes and fixes, so the developing phase is guided and smooth.
 
 
 ## Features
@@ -65,33 +70,33 @@ In this section, you should go over the different parts of your project, and des
  
 ### 1. Existing Features
 
-(- Feature # - allows users X to achieve Y, by having them fill out Z)
-- Feature 1: Inquire Button and Contact Form
-- Feature 2: Enroll Button 
-- Feature 3: Newsletter Button
+- Feature 1: Responsive and Fixed Top Navbar: allows user to go over the entire content and find precisely whet they need with automatic scroll/jump on page.
 
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
+- Feature 2: Inquire/Contact Button with Modal: allows user to send an inquire or contact the staff/mentors with a responsive pop-up contact form (modal).
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+- Feature 3: Enroll Button: allows user to register by sending secured online payment via PayPal (PayPal integration to be installed).
+
+- Feature 3: Newsletter Button: allows user to sign up to our mailing list via mail chimp with a popup form (modal has integration with Mailchimp).
 
 ### 2. Features Left to Implement
 
-- Contact Form
-- Mailcnimp Form as Modal
-- PayPal payment method
-
+- PayPal payment method: to have a modal (when clicking on the Enroll Now button) with 4 PayPal buttons integrated inside the modal (buttons according to the 4 package price options) that link directly to PayPal checkout for secure card processing.
 
 
 
 ## Technologies Used
 
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
+- [Bootstrap4](https://getbootstrap.com/)
+    	- This project uses the **Bootstrap4** Framework and all its documentation (CSS and JS) to facilitate a responsive mobile-first design and UX experience.
 
-- Framework used: Bootstrap4 — Bootstrap has an undeniable power and flexibility, and has great documentation; I used Bootstrap for it’s practicality and cleanliness, as well as because responsiveness is a priority for this project (having a mobile-first design was important for reaching and communicating with the target client)
-- Bootstrap4 CSS  — Used for web design in tyling and branding.
-- Bootstrap JS — Used for responsiveness, modals, read more collapsing button, smooth scrolling navigation.
+- [Cloud9](https://c9.io)
+    	- The project uses **Cloud9** as a development and testing environment.
+
+- [GitHub](https://github.com)
+    	- The project uses **GitHub** as a secondary repository environment.
+
+- [GitHub Pages](https://pages.github.com/)
+    	- The project uses **GitHub Pages** for deployment.
 
 
 
@@ -128,27 +133,25 @@ In particular, you should provide all details of the differences between the dep
 
 In addition, if it is not obvious, you should also describe how to run your code locally.
 
-- Final Version deployed to GitHubPages: https://kescardoso.github.io/milestone1-yinsoundsouth/
+- Final Version deployed to GitHubPages: 
 
 
 
 ## Credits
 
 ### Code
-1. The smooth scrolling navigation with JQuery was used from Kevin Powell:
-	- Youtube Tutorial: https://www.youtube.com/watch?v=x0YnVwAuNQI
-	-  Code Pen Repository: https://codepen.io/kevinpowell/pen/dWzGox
-2. Simple modal contact form from: https://mdbootstrap.com/docs/jquery/modals/forms/
-3. Mailchimp Sign up form on modal from Mailchimp and Bootstrapious: 
+1.  Simple modal contact form from: https://mdbootstrap.com/docs/jquery/modals/forms/
+2.  Mailchimp Sign up form on modal from Mailchimp and Bootstrapious: 
 	- Mailchimp: https://mailchimp.com
 	- Bootstrapious: https://bootstrapious.com/p/mailchimp-signup-form
+3.  Collapsible Navbar Toggler that closes on click from StackOverflow: https://stackoverflow.com/questions/42401606/how-to-hide-collapsible-bootstrap-4-navbar-on-click
 
 ### Media
 These photos below are stock-free images obtained from Unsplash:
-	- (1) Mountain Range https://unsplash.com/photos/mMzVTy2V1Do
-	- (2) Forest Girl https://unsplash.com/photos/yIEN_h5ZC58
-	- (3) Orange Cat https://unsplash.com/photos/XpiPvnx0H5M
-	- (4) Sunset https://unsplash.com/photos/I2YSmEUAgDY
+- (1) Mountain Range https://unsplash.com/photos/mMzVTy2V1Do
+- (2) Forest Girl https://unsplash.com/photos/yIEN_h5ZC58
+- (3) Orange Cat https://unsplash.com/photos/XpiPvnx0H5M
+- (4) Sunset https://unsplash.com/photos/I2YSmEUAgDY
 
 ### Acknowledgements
 - I received inspiration for this project from 

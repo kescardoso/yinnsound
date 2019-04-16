@@ -1,5 +1,5 @@
 body {
-    padding-top: 56px;
+    padding-top: 54px;
     font-family: 'Lato', sans-serif;
     font-weight: 300;
     letter-spacing: 1px;
@@ -8,6 +8,25 @@ body {
 
 
 /* Navigation */
+
+.navbar .navbar-toggler {
+    border: 0!important;
+}
+
+.navbar .navbar-brand {
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 95%;
+}
+
+.navbar .navbar-nav {
+    text-transform: uppercase;
+    font-size: 90%;
+}
+
+.navbar .navbar-nav a {
+    font-weight: 400;
+}
 
 
 
@@ -111,6 +130,7 @@ h4 {
 .btn--register:active:focus {
     background-color: #f2e1db;
     border-color: #f2e1db;
+    color: #2C2F23;
 }
 
 
