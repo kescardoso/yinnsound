@@ -80,7 +80,9 @@ A female English-speaking expat in the South of France, who relocated with her h
 
 - **PayPal payment method:** to install a modal (when clicking on the Enroll Now button) with 4 PayPal buttons integrated inside the modal (buttons according to the 4 package price options) that link directly to PayPal checkout for secure card processing.
 
-- **Contact Form Function:** to install contact form functionality so users can actually get in touch with mentors via de modal contact form.
+- **Contact form function:** to install contact form functionality so users can actually get in touch with mentors via de modal contact form.
+
+- **Smooth nav link scrolling with jquery:** to install automatic smooth scrolling animation on click at navbar links (instead of the current jump).
 
 
 

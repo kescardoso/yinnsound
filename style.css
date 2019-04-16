@@ -5,9 +5,7 @@ body {
     letter-spacing: 1px;
 }
 
-
-
-/* Navigation */
+/*---------------------------------------------------------------- Navigation */
 
 .navbar .navbar-toggler {
     border: 0!important;
@@ -28,9 +26,7 @@ body {
     font-weight: 400;
 }
 
-
-
-/* Jumbotron */
+/*----------------------------------------------------------------- Jumbotron */
 
 .h-jumbotron {
     font-family: 'Rasa', serif;
@@ -61,9 +57,7 @@ body {
     background-color: rgba(255, 255, 255, 0.25);
 }
 
-
-
-/* Headers & Paragraphs */
+/*----------------------------------------------------- Headings & Paragraphs */
 
 .joinus {
     font-family: 'Rasa', serif;
@@ -71,7 +65,8 @@ body {
     font-weight: 300;
     letter-spacing: 1px;
     color: #14494B;
-    margin-top: 95px;
+    margin-top: 85px;
+    margin-bottom: 75px;
 }
 
 h2 {
@@ -81,6 +76,7 @@ h2 {
     letter-spacing: 2px;
     margin-top: 20px;
     margin-bottom: 20px;
+    line-height: 34px;
 }
 
 .h-standout {
@@ -90,8 +86,10 @@ h2 {
 }
 
 .fancyTitle {
-    margin-top: 40px;
+    margin-top: 20px;
     margin-bottom: 10px;
+    padding-top: 20px;
+    padding-bottom: 10px;
 }
 
 h3 {
@@ -105,17 +103,19 @@ h3 {
 
 h4 {
     font-weight: 400;
-    font-size: 16px;
+    font-size: 14px;
     letter-spacing: 2px;
     margin-top: 10px;
     margin-bottom: 10px;
 }
 
+.p-standout {
+    font-weight: 400;
+}
 
+/*------------------------------------------------------------------- Buttons */
 
-/* Buttons */
-
-.btn--register {
+.btn-register {
     color: #14494B;
     font-weight: 700;
     border-radius: 25px;
@@ -124,18 +124,30 @@ h4 {
     letter-spacing: .02em;
 }
 
-.btn--register:hover,
-.btn--register:active,
-.btn--register:focus,
-.btn--register:active:focus {
+.btn-register:hover,
+.btn-register:active,
+.btn-register:focus,
+.btn-register:active:focus {
     background-color: #f2e1db;
     border-color: #f2e1db;
     color: #2C2F23;
 }
 
+.btn-mtr {
+    border-radius: 25px;
+    background-color: #f5f5f5;
+    width: 110px;
+}
 
+.btn-mtr:hover,
+.btn-mtr:active,
+.btn-mtr:focus,
+.btn-mtr:active:focus {
+    background-color: #e8e8e8;
+    border-color: #e8e8e8;
+}
 
-/* Images */
+/*-------------------------------------------------------------------- Images */
 
 .img-fluid {
     margin: 0;
@@ -144,9 +156,7 @@ h4 {
     height: auto;
 }
 
-
-
-/* Containers */
+/*---------------------------------------------------------------- Containers */
 
 .container {
     margin-bottom: 15px;
@@ -168,16 +178,61 @@ h4 {
     position: relative;
 }
 
+.container-wrapper {
+    margin-bottom: 35px;
+    padding-bottom: 35px;
+}
 
+.container-wrapper-pink {
+    background-color: #F9F1EE;
+}
 
-/* Schedule Container */
+/*--------------------------------------------------------- Mentors Container */
+
+.mentors-intro {
+    background-color: #fff;
+    padding-top: 15px;
+    border-radius: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+/*-------------------------------------------------------- Schedule Container */
 
 .scheduleDay {
     margin-right: 10px;
     margin-left: 10px;
+    background-color: #fff;
+    border-radius: 15px;
 }
 
 .scheduleDay p{
     font-size: 14px;
     line-height: 18px;
+}
+
+.scheduleGrid {
+    margin-bottom: 45px;
+}
+
+/*---------------------------------------------------------- Prices Container */
+
+.pricePackGrid {
+    background-color: #fff;
+    border-radius: 15px;
+    margin: 10px;
+}
+
+.priceFNotes {
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+.datesWrapper {
+    background-color: #fff;
+    border-radius: 15px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
 }
