@@ -102,6 +102,26 @@ h4 {
     border-radius: 25px;
     background-color: #F9F1EE;
     width: 180px;
+    letter-spacing: .02em;
+}
+
+.btn--register:hover,
+.btn--register:active,
+.btn--register:focus,
+.btn--register:active:focus {
+    background-color: #f2e1db;
+    border-color: #f2e1db;
+}
+
+
+
+/* Images */
+
+.img-fluid {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: auto;
 }
 
 
