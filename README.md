@@ -78,7 +78,9 @@ A female English-speaking expat in the South of France, who relocated with her h
 
 ### 2. Features Left to Implement
 
-- **PayPal payment method:** to have a modal (when clicking on the Enroll Now button) with 4 PayPal buttons integrated inside the modal (buttons according to the 4 package price options) that link directly to PayPal checkout for secure card processing.
+- **PayPal payment method:** to install a modal (when clicking on the Enroll Now button) with 4 PayPal buttons integrated inside the modal (buttons according to the 4 package price options) that link directly to PayPal checkout for secure card processing.
+
+- **Contact Form Function:** to install contact form functionality so users can actually get in touch with mentors via de modal contact form.
 
 
 
@@ -138,18 +140,16 @@ In addition, if it is not obvious, you should also describe how to run your code
 ## Credits
 
 ### Code
-1.  Simple modal contact form from: https://mdbootstrap.com/docs/jquery/modals/forms/
-2.  Mailchimp Sign up form on modal from Mailchimp and Bootstrapious: 
-	- Mailchimp: https://mailchimp.com
-	- Bootstrapious: https://bootstrapious.com/p/mailchimp-signup-form
-3.  Collapsible Navbar Toggler that closes on click from StackOverflow: https://stackoverflow.com/questions/42401606/how-to-hide-collapsible-bootstrap-4-navbar-on-click
+1.  **Simple modal contact form** from [MdBootstrap](https://mdbootstrap.com/docs/jquery/modals/forms/) 
+2.  **Mailchimp form on modal** from [Mailchimp](https://mailchimp.com) and [Bootstrapious](https://bootstrapious.com/p/mailchimp-signup-form) 
+3.  **Collapsible Navbar Toggler** that closes on click from [StackOverflow](https://stackoverflow.com/questions/42401606/how-to-hide-collapsible-bootstrap-4-navbar-on-click) 
 
 ### Media
 These photos below are stock-free images obtained from Unsplash:
-- (1) Mountain Range https://unsplash.com/photos/mMzVTy2V1Do
-- (2) Forest Girl https://unsplash.com/photos/yIEN_h5ZC58
-- (3) Orange Cat https://unsplash.com/photos/XpiPvnx0H5M
-- (4) Sunset https://unsplash.com/photos/I2YSmEUAgDY
+- (1) [Mountain Range](https://unsplash.com/photos/mMzVTy2V1Do)
+- (2) [Forest Girl](https://unsplash.com/photos/yIEN_h5ZC58)
+- (3) [Orange Cat](https://unsplash.com/photos/XpiPvnx0H5M)
+- (4) [Sunset Yoga](https://unsplash.com/photos/I2YSmEUAgDY)
 
 ### Acknowledgements
 - I received inspiration for this project from 
