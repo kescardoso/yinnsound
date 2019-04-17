@@ -1,10 +1,10 @@
 # Project: YIN & SOUND IN THE SOUTH
 
-My first milestone project is actually a prototype for a real product: A static website for our Yin-Yoga and Sound Healing Training Immersion in the South of France. Besides being student at Code Institute and future Software Developer Extraordinaire, I have been a Yoga Teacher and Sound Therapist for the past 5 years here in France.
+My first milestone project for Code Institute is a prototype for a real product: A static landing page for our Yin-Yoga and Sound Healing Training Immersion in the South of France. Besides being a student at Code Institute and future Software Developer and UX Extraordinaire, I have been a Yoga Teacher and Sound Therapist for the past 5 years here in France.
 
-One of my personal dreams has been to create my own retreats and immersive experience-training programs for aspiring yoga teachers and sound healing practitioners. In the beginning of 2019 I encountered the perfect partner (a sister-like yoga teacher and entrepreneur with a bunch of experience and a lot of love in her heart!) and the perfect location (a permaculture retreat center in the French Alps, one-hour drive from Nice!). On this first phase of project development we are doing everything ourselves to keep costs and base-investments low, and I am in charge of web development and digital communications (using my web developing skills and previous marketing experience). 
+One of my personal dreams has been to create seasonal retreats and immersive experience-training programs for aspiring yoga teachers and sound healing practitioners. In the beginning of 2019 I found the perfect partner (a sister-like yoga teacher and entrepreneur with a bunch of experience and a lot of love in her heart) and the perfect location (a permaculture retreat center in the French Alps, one-hour drive from Nice). On this first phase of project development we are doing everything ourselves to keep costs and base-investments low, and I am in charge of web development and digital communications (using my web developing skills and previous marketing experience). 
 
-For this project I Wireframed on Figma and used Cloud9, GitHub and GitHub Pages for developing a Bootstrap4 mobile-first responsive website (all links and credits below).
+For this project I wire-framed on Figma and used Cloud9, GitHub and GitHub Pages for developing a Bootstrap4 mobile-first responsive website (all links and credits below).
 
 Thanks for appreciating this project with me :)
 Kes Cardoso.
@@ -21,22 +21,23 @@ Kes Cardoso.
 - Regular clients who love yoga and are looking for a wellness retreat or short experience-based vacation in nature.
 
 #### Our demographic is (from larger scope to main avatar):
-- French and International clients (mostly from: Europe and USA) ranging from 25-55 years old;
+- French and International clients (mostly from: Europe and USA) between 25-55 years old;
 - English-speaking expats living in the South of France (Nice, Antibes, Cannes, Monaco, Menton and surrounding areas, as well as Paris);
-- Our current yoga students and clients from Nice and surrounding area (already introduced to our business);
+- Our current yoga students and clients from Nice and surrounding area interested in going deep into their practice (already introduced to our business);
 
 #### Our Client Avatar
-- Our main client-avatar is: females between 30-45 years old who are interested in: yoga, alternative medicines, hiking, outdoor activities, vegetarian and organic food, ecological affairs, and mainstream spirituality.
+- Our main client-avatar is: females between 30-45 years old living in the south of France and who are interested in: yoga, alternative medicines, hiking, outdoor activities, vegetarian and organic food, ecological affairs, career change, holistic and health habits, and mainstream spirituality.
 
 ### 2. What is our client looking to achieve
 
-This client-avatar is looking for information online on how to get trained or improve their Yin Yoga skills. They are looking for either a formal training or an immersion experience that leads to qualifications for teaching Yin Yoga with Sound Healing support (these two modalities are often used together and lead to combined training). Clients desire to experience an immersion fast-track, retreat-like program that functions as both intensive training and/or short vacation. Budget is an important element, and they usually can’t or afford or don’t wish to invest in flagship trainings from Yoga Alliance, for example. 
+This client is looking for information online on how to get trained or improve their Yin Yoga skills. They are looking for either a formal training or an immersion experience that leads to qualifications for teaching Yin Yoga with Sound Healing support (these two modalities are often used together and lead to combined training). Clients desire to experience an immersion fast-track, retreat-like program that functions as both intensive training and/or short vacation. Budget and proximity is an important element, and they usually can’t afford or don’t wish to invest in flagship trainings from Yoga Alliance, for example. 
 
 They need a well explained presentation, in form of an online webpage, that lays out all the important details on how / where / when they can achieve their goals and what they will get as a result if they sign up to our program. They also expect to have easy access to registration and online payment options, as well as easy contact to inquire about the program if they are unsure or need assistance making a decision.
 
 ### 3. How YIN & SOUND IN THE SOUTH will help clients achieve their goals
 
-The webpage is a user-friendly, one-page scrolling site containing text, images, videos and table layouts to help and guide clients into finding the information they are looking for.
+- This website is a user-friendly, one-page scrolling site, containing: text, images, videos and grids to help and guide clients into finding the information they are looking for.
+- This website is also responsive, and has been carefully optimized and tested for mobile, tablets and desktop views.
 
 #### User Stories:
 A female English-speaking expat in the South of France, who relocated with her husband and needs to redefine her career and social life. She is looking to quickly integrate the job marketing by becoming a yoga instructor among expats moms in her small town community with a short and budget-friendly training.
@@ -60,7 +61,7 @@ A female English-speaking expat in the South of France, who relocated with her h
 ### 4. My WireFrame on Figma (link)
 
 - [Link to my Wireframe on Figma](https://www.figma.com/proto/SBGSRVoWq5737gajqHsn5VjN/YT?node-id=0%3A1&scaling=min-zoom)
-	- This was my first wireframing experience and it was very positive. It took me sometime and frustration to learn how to use Figma, but once I understood it, wireframing became a necessary must. After finishing my wireframed mockup website, I felt secure about going into development because I knew exactly the fonts, colors, layouts and the appearance I was going to achieve through developing on Bootstrap. I feel wirefraning is a time saver, a space where I can make all the design tests and decisions as well as UX mistakes and fixes, so the developing phase is guided and smooth.
+	- This was my first wire-framing experience and it was very positive. It took me sometime and frustration to learn how to use Figma, but once I understood it, wire-framing became a must. After finishing my wire-framed mockup website, I felt very good about going into development because I knew exactly the appearance I wanted to achieve with Bootstrap. I made some adjustments as I developed the webpage, but wire-framing definitely made the development phase a lot easier and fun!
 
 
 
@@ -68,23 +69,23 @@ A female English-speaking expat in the South of France, who relocated with her h
  
 ### 1. Existing Features
 
-- **Feature 1 - Responsive and Fixed Top Navbar:** allows user to go over the entire content and find precisely whet they need with automatic scroll/jump on page.
+- **Feature 1 - Responsive and Fixed Top Navbar:** allows user to go over the entire content and find precisely what they need with automatic scroll/jump on page.
 
 - **Feature 2 - Inquire/Contact Button with Modal:** allows user to send an inquire or contact the staff/mentors with a responsive pop-up contact form (modal).
 
-- **Feature 3 - Enroll Button:** allows user to register by sending secured online payment via PayPal (PayPal integration to be installed).
+- **Feature 3 - Enroll Button:** allows user to register by sending secured online payment via PayPal, either via the button at the footer of the modal, or via the PayPal icon in the center of the modal (which is a FontAwesome icon used as a button).
 
 - **Feature 3 - Newsletter Button:** allows user to sign up to our mailing list via mail chimp with a popup form (modal has integration with Mailchimp).
 
 ### 2. Features Left to Implement
 
-- **PayPal payment method:** to install a modal (when clicking on the Enroll Now button) with 4 PayPal buttons integrated inside the modal (buttons according to the 4 package price options) that link directly to PayPal checkout for secure card processing.
-
 - **Contact form function:** to install contact form functionality so users can actually get in touch with mentors via de modal contact form.
 
-- **Smooth nav link scrolling with jquery:** to install automatic smooth scrolling animation on click at navbar links (instead of the current jump).
+- **Smooth nav link scrolling with jQuery:** to install automatic smooth scrolling animation on click at navbar links (instead of the current jump).
 
 - **Terms and Conditions page:** finish writing, creating and linking a legal terms and conditions page explaining terms for monetary transactions and privacy.
+
+- **Hide Youtube title overlay:** Youtube embedded videos automatically display a photo and video title on top of the video, I want to be able to hide it.
 
 
 
@@ -146,10 +147,11 @@ In addition, if it is not obvious, you should also describe how to run your code
 ### Code
 1.  **Simple modal contact form** from [MdBootstrap](https://mdbootstrap.com/docs/jquery/modals/forms/) 
 2.  **Mailchimp form on modal** from [Mailchimp](https://mailchimp.com) and [Bootstrapious](https://bootstrapious.com/p/mailchimp-signup-form) 
-3.  **Collapsible Navbar Toggler** that closes on click from [StackOverflow](https://stackoverflow.com/questions/42401606/how-to-hide-collapsible-bootstrap-4-navbar-on-click) 
+3.  **Collapsible navbar toggler** that closes on click from [StackOverflow](https://stackoverflow.com/questions/42401606/how-to-hide-collapsible-bootstrap-4-navbar-on-click) 
+4.  **FontAwesome as button input on PayPal modal**  [StackOverflow](https://stackoverflow.com/questions/11686007/font-awesome-input-type-submit) 
 
 ### Media
-These photos below are stock-free images obtained from Unsplash:
+These photos below are stock-free images obtained from [Unsplash](https://unsplash.com/):
 - (1) [Mountain Range](https://unsplash.com/photos/mMzVTy2V1Do)
 - (2) [Forest Girl](https://unsplash.com/photos/yIEN_h5ZC58)
 - (3) [Orange Cat](https://unsplash.com/photos/XpiPvnx0H5M)

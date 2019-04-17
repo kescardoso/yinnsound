@@ -5,69 +5,21 @@ body {
     letter-spacing: 1px;
 }
 
-/*---------------------------------------------------------------- Navigation */
+/*--------------------------------------------------------------------- Links */
 
-.navbar .navbar-toggler {
-    border: 0!important;
+a {
+    color: #000;
 }
 
-.navbar .navbar-brand {
-    font-weight: 700;
-    text-transform: uppercase;
-    font-size: 95%;
+a:hover,
+a:active,
+a:focus,
+a:active:focus {
+    text-decoration: none;
+    color: #999;
 }
 
-.navbar .navbar-nav {
-    text-transform: uppercase;
-    font-size: 90%;
-}
-
-.navbar .navbar-nav a {
-    font-weight: 400;
-}
-
-/*----------------------------------------------------------------- Jumbotron */
-
-.h-jumbotron {
-    font-family: 'Rasa', serif;
-    font-size: 40px;
-    font-weight: 500;
-    color: #FFF;
-    margin-bottom: 30px;
-}
-
-.lead {
-    font-family: 'Lato', sans-serif;
-    font-weight: 900;
-    font-size: 20px;
-    color: #F9F1EE;
-    letter-spacing: 2px;
-}
-
-.jumbotron {
-    background-color: transparent;
-}
-
-.opaque-overlay {
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 100%;
-    width: 100%;
-    background-color: rgba(255, 255, 255, 0.25);
-}
-
-/*----------------------------------------------- Links Headings & Paragraphs */
-
-.joinus {
-    font-family: 'Rasa', serif;
-    font-size: 30px;
-    font-weight: 300;
-    letter-spacing: 1px;
-    color: #14494B;
-    margin-top: 85px;
-    margin-bottom: 75px;
-}
+/*--------------------------------------------- Headings & Special Paragraphs */
 
 h2 {
     color: #2C2F23;
@@ -77,19 +29,6 @@ h2 {
     margin-top: 20px;
     margin-bottom: 20px;
     line-height: 34px;
-}
-
-.h-standout {
-    font-family: 'Rasa', serif;
-    color: #14494B;
-    font-weight: 300;
-}
-
-.fancyTitle {
-    margin-top: 20px;
-    margin-bottom: 10px;
-    padding-top: 20px;
-    padding-bottom: 10px;
 }
 
 h3 {
@@ -109,20 +48,25 @@ h4 {
     margin-bottom: 10px;
 }
 
+.h-fancy {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.h-standout {
+    font-family: 'Rasa', serif;
+    color: #14494B;
+    font-weight: 300;
+}
+
 .p-standout {
     font-weight: 400;
 }
 
-a {
-    color: #000;
-}
-
-a:hover,
-a:active,
-a:focus,
-a:active:focus {
-    text-decoration: none;
-    color: #999;
+.p-final-notes {
+    font-size: 14px;
 }
 
 /*------------------------------------------------------------------- Buttons */
@@ -145,16 +89,16 @@ a:active:focus {
     color: #2C2F23;
 }
 
-.btn-mtr {
+.btn-read-more {
     border-radius: 25px;
     background-color: #f8f9fa;
     width: 110px;
 }
 
-.btn-mtr:hover,
-.btn-mtr:active,
-.btn-mtr:focus,
-.btn-mtr:active:focus {
+.btn-read-more:hover,
+.btn-read-more:active,
+.btn-read-more:focus,
+.btn-read-more:active:focus {
     background-color: #e9ecef;
     border-color: #e9ecef;
 }
@@ -191,6 +135,38 @@ a:active:focus {
     margin-bottom: 15px;
 }
 
+.container-wrapper {
+    margin-bottom: 35px;
+    padding-bottom: 35px;
+}
+
+.container-wrapper-pink {
+    background-color: #F9F1EE;
+}
+
+/*---------------------------------------------------------------- Navigation */
+
+.navbar .navbar-toggler {
+    border: 0!important;
+}
+
+.navbar .navbar-brand {
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 95%;
+}
+
+.navbar .navbar-nav {
+    text-transform: uppercase;
+    font-size: 90%;
+}
+
+.navbar .navbar-nav a {
+    font-weight: 400;
+}
+
+/*------------------------------------------------------- CallOut & Jumbotron */
+
 .callout-container{
     height: 100vh;
     
@@ -207,19 +183,45 @@ a:active:focus {
     position: relative;
 }
 
-.container-wrapper {
-    margin-bottom: 35px;
-    padding-bottom: 35px;
+.h-jumbotron {
+    font-family: 'Rasa', serif;
+    font-size: 40px;
+    font-weight: 500;
+    color: #FFF;
+    margin-bottom: 30px;
 }
 
-.container-wrapper-pink {
-    background-color: #F9F1EE;
+.lead {
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+    font-size: 20px;
+    color: #F9F1EE;
+    letter-spacing: 2px;
 }
 
-.container-wrapper-grey {
-    background-color: #f8f9fa;
-    padding-top: 30px;
-    padding-bottom: 10px;
+.jumbotron {
+    background-color: transparent;
+}
+
+.opaque-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.25);
+}
+
+/*-------------------------------------------------------------------- JoinUs */
+
+.joinus {
+    font-family: 'Rasa', serif;
+    font-size: 30px;
+    font-weight: 300;
+    letter-spacing: 1px;
+    color: #14494B;
+    margin-top: 85px;
+    margin-bottom: 75px;
 }
 
 /*--------------------------------------------------------- Mentors Container */
@@ -234,45 +236,41 @@ a:active:focus {
 
 /*-------------------------------------------------------- Schedule Container */
 
-.scheduleDay {
+.schedule-single-grid-wrapper {
     margin: 0 10px 10px 10px;
     background-color: #fff;
     border-radius: 15px;
 }
 
-.scheduleDay p{
+.schedule-single-grid-wrapper p{
     font-size: 14px;
     line-height: 18px;
 }
 
-.scheduleGrid {
+.schedule-full-grid {
     margin-bottom: 45px;
 }
 
 /*---------------------------------------------------------- Prices Container */
 
-.pricePackGrid {
+.price-packages-wrapper {
     background-color: #fff;
     border-radius: 15px;
     margin: 10px;
 }
 
-.priceFNotes {
+.price-final-notes {
     margin-top: 35px;
     margin-bottom: 35px;
 }
 
-.datesWrapper {
+.dates-wrapper {
     background-color: #fff;
     border-radius: 15px;
     margin-right: 10px;
     margin-left: 10px;
     margin-bottom: 20px;
     padding-bottom: 20px;
-}
-
-.final-notes {
-    font-size: 14px;
 }
 
 /*-------------------------------------------------------------------- Footer */
@@ -283,4 +281,10 @@ a:active:focus {
     color: rgba(0,0,0,.5);
     letter-spacing: 0.2em;
     line-height: 18px;
+}
+
+.container-wrapper-grey {
+    background-color: #f8f9fa;
+    padding-top: 30px;
+    padding-bottom: 10px;
 }
