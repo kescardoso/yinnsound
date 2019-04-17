@@ -84,6 +84,8 @@ A female English-speaking expat in the South of France, who relocated with her h
 
 - **Smooth nav link scrolling with jquery:** to install automatic smooth scrolling animation on click at navbar links (instead of the current jump).
 
+- **Terms and Conditions page:** finish writing, creating and linking a legal terms and conditions page explaining terms for monetary transactions and privacy.
+
 
 
 ## Technologies Used

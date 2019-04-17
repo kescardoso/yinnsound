@@ -147,6 +147,23 @@ h4 {
     border-color: #e8e8e8;
 }
 
+.btn-cta {
+    letter-spacing: .02em;
+    border-radius: 25px;
+    background-color: #F9F1EE;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(153,153,153,0.33);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(153,153,153,0.33);
+    box-shadow: 10px 10px 5px 0px rgba(153,153,153,0.33);
+}
+
+.btn-cta:hover,
+.btn-cta:active,
+.btn-cta:focus,
+.btn-cta:active:focus {
+    background-color: #f2e1db;
+    border-color: #f2e1db;
+}
+
 /*-------------------------------------------------------------------- Images */
 
 .img-fluid {
@@ -235,4 +252,8 @@ h4 {
     margin-left: 10px;
     margin-bottom: 20px;
     padding-bottom: 20px;
+}
+
+.p-final-enroll {
+    font-size: 14px;
 }
