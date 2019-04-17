@@ -9,7 +9,6 @@
     
     <!-- Bootstrap4 CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
     
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900|Rasa:300,400,500" rel="stylesheet">
@@ -455,23 +454,23 @@
             <!-- Dates -->
             <div class="row datesWrapper">
                 <div class="col-12">
-                    <div class="dates-heading fancyTitle">
+                    <div class="fancyTitle">
                         <h2 class="text-uppercase">Upcoming Dates</h2>
                         <h2 class="h-standout">We are looking foward to welcoming you! 
                         <span class="d-none d-lg-inline"><br/></span>
                         Keep checking this session as new dates will be added.</h2>
                     </div>
-                    <div class="dates-calendar">
+                    <div class="text-uppercase p-standout mb-5">
                         <h2>2019</h2>
-                        <p class="text-uppercase p-standout">June 19-23, 2019</p>
+                        <p>June 19-23, 2019</p>
                         <h2>2020</h2>
-                        <p class="text-uppercase p-standout">April 8-12, 2020</p>
-                        <p class="text-uppercase p-standout">June 10-14, 2020</p>
+                        <p>April 8-12, 2020</p>
+                        <p>June 10-14, 2020</p>
                     </div>
+                    <div class="mb-4"><p>We aim to fill up the next, most recent immersion before opening registration for upcoming ones. This is why when you choose to enroll online, you will only be able to register for the date that is currently filling up. Once that immersion is full, we will open online enrollment for the next one.</p></div>
                 </div>
             </div>  
-            
-            
+
         </section>
     </div>
     </div>
@@ -519,7 +518,7 @@
             <!-- Enroll CTA Buttons -->       
             <div class="row">    
                 <div class="col-12 mt-4 mb-4">
-                    <a class="btn btn-cta btn-lg btn-block" href="https://www.paypal.me/kescardoso" target="_blank" role="button">
+                    <a href="" class="btn btn-cta btn-lg btn-block" data-toggle="modal" data-target="#modalPaypal" role="button">
                         <h2 class="text-uppercase">Enroll Now</h2>
                         <p class="p-standout">register via paypal</p>
                     </a>
@@ -544,7 +543,7 @@
             <!-- Enroll Final Notes -->   
             <div class="row">
                 <div class="col-12">
-                    <p class="p-final-enroll">If you are ready and wish to enroll now, you may do so via our online registration using our secure paypal button (credit card required). Or, if you wish to inquire about the program, please feel free to get in touch with us using the inquire button. If your current budget requires a payment plan, please also get in touch with us so we can provide you an adapted option. <strong>NOTE:</strong> all prices are in Euros; registration spots are available on a first come first serve basis and are limited to 15 spots (we try to fill up the next upcoming immersion before releasing registration for next ones, if you can only join us on a later date, please get in touch); and all payments are non-refundable.</p>
+                    <p class="final-notes">If you are ready and wish to enroll now, you may do so via our online registration using our secure paypal button (credit card required). Or, if you wish to inquire about the program, please feel free to get in touch with us using the inquire button. If your current budget requires a payment plan, please also get in touch with us so we can provide you an adapted option. <strong>NOTE:</strong> all prices are in Euros; registration spots are available on a first come first serve basis and are limited to 15 spots (we try to fill up the next upcoming immersion before releasing registration for next ones, if you can only join us on a later date, please get in touch); and all payments are non-refundable.</p>
                 </div>
             </div>
             
@@ -557,9 +556,10 @@
         <footer>
             <div class="footer text-uppercase text-center">
                 <p>
+                    <a href="" data-toggle="modal" data-target="#modalMailchimp"><i class="fab fa-mailchimp"></i></a>
                     <a href="http://instagram.com/kescardoso" target="_blank"><i class="fab fa-instagram"></i></a>
                     <a href="http://facebook.com/kescardoso" target="_blank"><i class="fab fa-facebook-square"></i></a>
-                    <a href="" data-toggle="modal" data-target="#modalContactForm" target="_blank"><i class="far fa-envelope"></i></a>
+                    <a href="" data-toggle="modal" data-target="#modalContactForm"><i class="far fa-envelope"></i></a>
                 </p>
                 <p><a href="#">Yoga & Sound in the South of France</a>・<a href="http://kescardoso.com" target="_blank">kescardoso</a> + <a href="#" target="_blank">thousandbridges</a></p>
                 <p>©2019 Site by Kes Cardoso・Powered by Prana & Pixels</p>
@@ -654,6 +654,59 @@
         </div>
     </div>
 
+    <!-- ModalPaypal -->
+    <div class="modal fade" id="modalPaypal" tabindex="-1" role="dialog" aria-labelledby="myModalPaypal" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header text-center">
+                    <h4 class="modal-title w-100 font-weight-bold">Enroll safely with PayPal</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+                    
+                <div class="modal-body mx-3 text-center">
+                
+                    <div class="md-form  text-center mb-5">
+                        <input type="hidden" name="cmd" value="_s-xclick">
+                        <input type="hidden" name="hosted_button_id" value="9LVLDHSTS3T54">
+                        <table>
+                        <tr><td><input type="hidden" name="on0" value="Packages">
+                        <p class="p-standout">
+                            
+                            Please, choose your package<br/>
+                            for the next immersion:<br/>
+                            19-23 June 2019
+                            
+                        </p>
+                        </td></tr><tr><td><select name="os0">
+                        	<option value="Bring Your Own Tent">Bring Your Own Tent €395,00 EUR</option>
+                        	<option value="Glamping">Glamping €495,00 EUR</option>
+                        	<option value="Shared Double Cabin">Shared Double Cabin €545,00 EUR</option>
+                        	<option value="Private Single Room">Private Single Room €595,00 EUR</option>
+                        </select> </td></tr>
+                        </table>
+                    </div>
+                    
+                    <div class="md-form mb-5">
+                        <input type="hidden" name="currency_code" value="EUR">
+                        <button type="submit" class="btn">
+                            <i class="fab fa-cc-paypal fa-7x"></i>
+                        </button>
+                    </div>
+                    
+                </div>
+                
+                <div class="modal-footer d-flex justify-content-center">
+                    <button class="btn btn-unique button">Pay & Enroll</i></button>
+                </div>
+                    
+            </form>
+            </div>
+        </div>
+    </div>
+    
     <!-- Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
