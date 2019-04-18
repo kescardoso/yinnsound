@@ -64,9 +64,9 @@ A female English-speaking expat in the South of France, who relocated with her h
 - [Link to my Wireframe on Figma](https://www.figma.com/proto/SBGSRVoWq5737gajqHsn5VjN/YT?node-id=0%3A1&scaling=min-zoom)
 	- This was my first wire-framing experience and it was very positive. It took me sometime and frustration to learn how to use Figma, but once I understood it, wire-framing became a must. After finishing my wire-framed mockup website, I felt very good about going into development because I knew exactly the appearance I wanted to achieve with Bootstrap. I made some adjustments as I developed the webpage, but wire-framing definitely made the development phase a lot easier and fun!
 
-- [Link to my GitHub Repository](https://…)
+- [Link to my GitHub Repository](https://github.com/kescardoso/MS1-yinsoundsouth)
 
--  [Link to my deployment on GitHubPages](https://…)
+- [Link to my deployment on GitHubPages](https://kescardoso.github.io/MS1-yinsoundsouth/)
 
 
 
