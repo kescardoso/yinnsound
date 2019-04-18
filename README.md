@@ -7,7 +7,8 @@ One of my personal dreams has been to create seasonal retreats and immersive exp
 For this project I wire-framed on Figma and used Cloud9, GitHub and GitHub Pages for developing a Bootstrap4 mobile-first responsive website (all links and credits below).
 
 Thanks for appreciating this project with me :)
-Kes Cardoso.
+
+[Kes Cardoso](http://www.kescardoso.com)
 
 
 
@@ -25,7 +26,7 @@ Kes Cardoso.
 - English-speaking expats living in the South of France (Nice, Antibes, Cannes, Monaco, Menton and surrounding areas, as well as Paris);
 - Our current yoga students and clients from Nice and surrounding area interested in going deep into their practice (already introduced to our business);
 
-#### Our Client Avatar
+#### Our Client Avatar:
 - Our main client-avatar is: females between 30-45 years old living in the south of France and who are interested in: yoga, alternative medicines, hiking, outdoor activities, vegetarian and organic food, ecological affairs, career change, holistic and health habits, and mainstream spirituality.
 
 ### 2. What is our client looking to achieve
@@ -36,8 +37,8 @@ They need a well explained presentation, in form of an online webpage, that lays
 
 ### 3. How YIN & SOUND IN THE SOUTH will help clients achieve their goals
 
-- This website is a user-friendly, one-page scrolling site, containing: text, images, videos and grids to help and guide clients into finding the information they are looking for.
-- This website is also responsive, and has been carefully optimized and tested for mobile, tablets and desktop views.
+- This website is completely responsive; it has been carefully optimized and tested for all devices: mobile, tablet and desktop.
+- This website is a user-friendly, one scrolling page with a top-fixed navbar, presenting wide space with text, images, videos and grids to help and guide clients into finding the information they are looking for.
 
 #### User Stories:
 A female English-speaking expat in the South of France, who relocated with her husband and needs to redefine her career and social life. She is looking to quickly integrate the job marketing by becoming a yoga instructor among expats moms in her small town community with a short and budget-friendly training.
@@ -58,10 +59,14 @@ A female English-speaking expat in the South of France, who relocated with her h
 
 - I am very interested in the training while I get to the bottom of the page into the registration section, but I am not yet ready to enroll, and so I click on the NEWSLETTER button to sign up to receive future news via email related to this training.
 
-### 4. My WireFrame on Figma (link)
+### 4. LINKS
 
 - [Link to my Wireframe on Figma](https://www.figma.com/proto/SBGSRVoWq5737gajqHsn5VjN/YT?node-id=0%3A1&scaling=min-zoom)
 	- This was my first wire-framing experience and it was very positive. It took me sometime and frustration to learn how to use Figma, but once I understood it, wire-framing became a must. After finishing my wire-framed mockup website, I felt very good about going into development because I knew exactly the appearance I wanted to achieve with Bootstrap. I made some adjustments as I developed the webpage, but wire-framing definitely made the development phase a lot easier and fun!
+
+- [Link to my GitHub Repository](https://…)
+
+-  [Link to my deployment on GitHubPages](https://…)
 
 
 
@@ -79,13 +84,13 @@ A female English-speaking expat in the South of France, who relocated with her h
 
 ### 2. Features Left to Implement
 
-- **Contact form function:** to install contact form functionality so users can actually get in touch with mentors via de modal contact form.
+- **Contact form function:** to install contact form functionality with php, so users can actually get in touch with mentors via the modal contact form.
 
-- **Smooth nav link scrolling with jQuery:** to install automatic smooth scrolling animation on click at navbar links (instead of the current jump).
+- **Smooth nav link scrolling with jQuery:** to install automatic smooth scrolling animation on click at navbar links (instead of the current page jump).
 
-- **Terms and Conditions page:** finish writing, creating and linking a legal terms and conditions page explaining terms for monetary transactions and privacy.
+- **Terms and Conditions page:** finish writing, creating and linking a legal terms and conditions page explaining for transactions and privacy.
 
-- **Hide Youtube title overlay:** Youtube embedded videos automatically display a photo and video title on top of the video, I want to be able to hide it.
+- **Hide Youtube title overlay:** Youtube embedded videos automatically display a photo and video title on top of the video; I want to be able to hide it.
 
 
 
@@ -107,38 +112,9 @@ A female English-speaking expat in the South of France, who relocated with her h
 
 ## Testing
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
-
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
-
-1. Contact form:
-    1. Go to the "Contact Us" page
-    2. Try to submit the empty form and verify that an error message about the required fields appears
-    3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-    4. Try to submit the form with all inputs valid and verify that a success message appears.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
 
 
 ## Deployment
-
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
-
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-- Different values for environment variables (Heroku Config Vars)?
-- Different configuration files?
-- Separate git branch?
-
-In addition, if it is not obvious, you should also describe how to run your code locally.
-
-- Final Version deployed to GitHubPages: 
 
 
 
@@ -148,7 +124,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 1.  **Simple modal contact form** from [MdBootstrap](https://mdbootstrap.com/docs/jquery/modals/forms/) 
 2.  **Mailchimp form on modal** from [Mailchimp](https://mailchimp.com) and [Bootstrapious](https://bootstrapious.com/p/mailchimp-signup-form) 
 3.  **Collapsible navbar toggler** that closes on click from [StackOverflow](https://stackoverflow.com/questions/42401606/how-to-hide-collapsible-bootstrap-4-navbar-on-click) 
-4.  **FontAwesome as button input on PayPal modal**  [StackOverflow](https://stackoverflow.com/questions/11686007/font-awesome-input-type-submit) 
+4.  **FontAwesome as button input on PayPal modal**  from [StackOverflow](https://stackoverflow.com/questions/11686007/font-awesome-input-type-submit) 
 
 ### Media
 These photos below are stock-free images obtained from [Unsplash](https://unsplash.com/):
@@ -158,4 +134,4 @@ These photos below are stock-free images obtained from [Unsplash](https://unspla
 - (4) [Sunset Yoga](https://unsplash.com/photos/I2YSmEUAgDY)
 
 ### Acknowledgements
-- I received inspiration for this project from 
+- I received inspiration for this project from one of our Bootstrap class work at Code Institute (Whisky Drop), which originated my Tea Drop website.
