@@ -5,6 +5,10 @@ body {
     letter-spacing: 1px;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 /*--------------------------------------------------------------------- Links */
 
 a {
@@ -230,7 +234,7 @@ h4 {
 
 .mentors-intro {
     background-color: #fff;
-    padding-top: 15px;
+    padding: 20px 15px 5px 15px;
     border-radius: 20px;
     margin-right: 10px;
     margin-left: 10px;
