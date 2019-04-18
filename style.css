@@ -170,7 +170,7 @@ h4 {
 .callout-container{
     height: 100vh;
     
-    background: url('../images/Hero.jpg') no-repeat center center fixed;
+    background: url('images/Hero.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
