@@ -585,7 +585,8 @@
         <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <div class="modal-header text-center">
-                    <p class="modal-title w-100 p-standout">Contact us<br/>we'll reply as soon as we can</p>
+                    <p class="modal-title w-100 p-standout">Contact Us<br/>
+                    <small class="form-text text-muted">we'll reply as soon as we can</small></p>
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                     </button>
@@ -595,17 +596,17 @@
                 
                     <div class="modal-body mx-3">
                         <div class="md-form mb-5">
-                            <i class="fas fa-user prefix grey-text"></i> 
+                            <i class="fas fa-user"></i> 
                             <label data-error="wrong" data-success="right" for="form34">Your name</label>
                             <input type="text" id="form34" class="form-control validate" required>
                         </div>
                         <div class="md-form mb-5">
-                          <i class="fas fa-envelope prefix grey-text"></i> 
+                          <i class="fas fa-envelope"></i> 
                           <label data-error="wrong" data-success="right" for="form29">Your email</label>
                           <input type="email" id="form29" class="form-control validate" required>
                         </div>
                         <div class="md-form">
-                          <i class="fas fa-pencil-alt prefix grey-text"></i> 
+                          <i class="fas fa-pencil-alt"></i> 
                           <label data-error="wrong" data-success="right" for="form8">Your message</label>
                           <textarea id="form8" class="md-textarea form-control" rows="4" required></textarea>
                         </div>
@@ -625,7 +626,8 @@
         <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <div class="modal-header text-center">
-                    <h4 class="modal-title w-100 font-weight-bold">Sign up to our newsletter</h4>
+                    <p class="modal-title w-100 p-standout">Get the News<br/>
+                    <small class="form-text text-muted">we'll never share your email</small></p>
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                     </button>
@@ -633,23 +635,22 @@
                 
                 <form action="https://kescardoso.us14.list-manage.com/subscribe/post?u=90653247de98c1d8ad8739d46&amp;id=0bfeb41396" 
                     method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" 
-                    class="validate" target="_blank" novalidate>
+                    class="needs-validation" target="_blank" novalidate>
                     
                     <div class="modal-body mx-3">
                         <div class="md-form mb-5 mc-field-group">
-                            <i class="fas fa-user prefix grey-text"></i>
-                            <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+                            <i class="fas fa-user"></i> 
                             <label for="mce-FNAME">You First Name </label>
+                            <input type="text" name="FNAME" class="form-control validade" id="mce-FNAME" required>
                         </div>
                         <div class="md-form mb-5 mc-field-group">
-                            <i class="fas fa-user prefix grey-text"></i>
-                            <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
-                            <label for="mce-LNAME">Your Last Name </label>
+                            <i class="fas fa-user"></i> <label for="mce-LNAME">Your Last Name </label>
+                            <input type="text" name="LNAME" class="form-control validade" id="mce-LNAME" required>
                         </div>
-                        <div class="md-form mb-5 mc-field-group">
-                          <i class="fas fa-envelope prefix grey-text"></i>
-                          <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+                        <div class="md-form mb-2 mc-field-group">
+                          <i class="fas fa-envelope"></i> 
                           <label for="mce-EMAIL">Your Email Address </label>
+                          <input type="email" name="EMAIL" class="form-control validade" id="mce-EMAIL" required>
                         </div>
                 		<div id="mce-responses" class="clear">
     		                <div class="response" id="mce-error-response" style="display:none"></div>
@@ -658,7 +659,7 @@
                     </div>
                     
                     <div class="modal-footer d-flex justify-content-center">
-                        <button class="btn btn-unique button">Subscribe <i class="fas fa-paper-plane-o ml-1"></i></button>
+                        <button class="btn btn-register btn-lg">Sign Up</button>
                     </div>
                     
                 </form>
