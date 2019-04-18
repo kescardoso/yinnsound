@@ -123,14 +123,12 @@ h4 {
 /*-------------------------------------------------------------------- Images */
 
 .img-fluid {
-    margin: 0;
-    padding: 0;
     width: 100%;
     height: auto;
 }
 
 .location-image {
-    padding: 0;
+    margin-bottom: 30px;
 }
 
 /*---------------------------------------------------------------- Containers */
@@ -279,6 +277,12 @@ h4 {
 
 /*-------------------------------------------------------------------- Footer */
 
+.container-wrapper-grey {
+    background-color: #f8f9fa;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
 .footer {
     font-size: 12px;
     font-weight: 400;
@@ -287,8 +291,6 @@ h4 {
     line-height: 18px;
 }
 
-.container-wrapper-grey {
-    background-color: #f8f9fa;
-    padding-top: 30px;
-    padding-bottom: 10px;
+.footer-social-links {
+    font-size: 16px;
 }
