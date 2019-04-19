@@ -57,36 +57,34 @@ A female English-speaking expat in the South of France, who relocated with her h
 
 - I am very interested in the training while I get to the bottom of the page into the registration section, but I am not yet ready to enroll, and so I click on the NEWSLETTER button to sign up to receive future news via email related to this training.
 
-### 4. LINKS
+### 4. Wireframe
 
 - [Link to my Wireframe on Figma](https://www.figma.com/proto/SBGSRVoWq5737gajqHsn5VjN/YT?node-id=0%3A1&scaling=min-zoom)
 	- This was my first wire-framing experience and it was very positive. It took me sometime and frustration to learn how to use Figma, but once I understood it, wire-framing became a must. After finishing my wire-framed mockup website, I felt very good about going into development because I knew exactly the appearance I wanted to achieve with Bootstrap. I made some adjustments as I developed the webpage, but wire-framing definitely made the development phase a lot easier and fun!
-
-- [Link to my deployment on GitHub Pages](https://kescardoso.github.io/MS1-yinsoundsouth/)
 
 ## Features
  
 ### 1. Existing Features
 
-- **Feature 1 - Responsive and Fixed Top Navbar:** allows user to go over the entire content and find precisely what they need with automatic scroll/jump on page.
+- **Responsive and Fixed Top Navbar:** allows user to go over the entire content and find precisely what they need with automatic scroll/jump on page.
 
-- **Feature 2 - Smooth Scrolling:**  automatic smooth scrolling animation on click at navbar links (made possible with CSS).
+- **Smooth Scrolling:**  automatic smooth scrolling animation on click at navbar links (made possible with CSS).
 
-- **Feature 3 - Jumbotron with Register Now Button:** presents an immediate call to action for visitors to optimize conversions.
+- **Jumbotron with Register Now Button:** presents an immediate call to action for visitors to optimize conversions.
 
-- **Feature 4 - Mentor’s Read More Button:** in the Mentors section on mobile/tablet viewing, the read more button allows the content to be more user friendly for small to medium screens.
+- **Mentor’s Read More Button:** in the Mentors section on mobile/tablet viewing, the read more button allows the content to be more user friendly for small to medium screens.
 
-- **Feature 5 - Daily Schedule Table:** allows user to understand the daily schedule for this program in a structural and logical way.
+- **Daily Schedule Table:** allows user to understand the daily schedule for this program in a structural and logical way.
 
-- **Feature 6 - Price/Packages Table:** allows user to understand the four different pricing options in a structural and logical way.
+- **Price/Packages Table:** allows user to understand the four different pricing options in a structural and logical way.
 
-- **Feature 7 - Location Video:** allows user to understand the four different pricing options in a structural and logical way.
+- **Location Video:** allows user to understand the four different pricing options in a structural and logical way.
 
-- **Feature 8 - Enroll Button:** it optimizes conversion by allowing  user to register to the program by sending secured online payment via PayPal, either via the button at the footer of the modal, or via the PayPal icon in the center of the modal (which is a FontAwesome icon used as a button).
+- **Enroll Button:** it optimizes conversion by allowing  user to register to the program by sending secured online payment via PayPal, either via the button at the footer of the modal, or via the PayPal icon in the center of the modal (which is a FontAwesome icon used as a button).
 
-- **Feature 9 - Inquire/Contact Button with Modal and Form:** allows (but not functioning yet: not linked to email) user to send an inquire or contact the staff/mentors with a responsive contact form inside a modal.
+- **Inquire/Contact Button with Modal and Form:** allows (but not functioning yet: not linked to email) user to send an inquire or contact the staff/mentors with a responsive contact form inside a modal.
 
-- **Feature 10 - Newsletter Button:** allows user to sign up to our mailing list via mail chimp with a popup form (modal has integration with Mailchimp).
+- **Newsletter Button:** allows user to sign up to our mailing list via mail chimp with a popup form (modal has integration with Mailchimp).
 
 ### 2. Features Left to Implement
 
@@ -98,33 +96,30 @@ A female English-speaking expat in the South of France, who relocated with her h
 
 ## Technologies Used
 
-- [Bootstrap](https://getbootstrap.com/)
-    	- This project uses the **Bootstrap** Framework to facilitate a responsive mobile-first design and UX experience.
+- [Bootstrap](https://getbootstrap.com/) - This project uses the **Bootstrap** Framework to facilitate a responsive mobile-first design and UX experience.
 
-- [Cloud9](https://c9.io)
-    	- This project uses **Cloud9** as a development and testing environment.
+- [Cloud9](https://c9.io) - This project uses **Cloud9** as a development and testing environment.
 
-- [Google Fonts](https://fonts.google.com/)
-	- This project uses **Google Fonts** to style the website fonts.
+- [Google Fonts](https://fonts.google.com/) - This project uses **Google Fonts** to style the website fonts.
 
-- [FontAwesome](https://fontawesome.com/)
-	- This project uses **FontAwesome** to style social links and form labels.
+- [FontAwesome](https://fontawesome.com/) - This project uses **FontAwesome** to style social links and form labels.
 
-- [YouTube](https://youtube.com/)
-	- This project uses **Youtube** to host the location video.
+- [YouTube](https://youtube.com/) - This project uses **Youtube** to host the location video.
 
-- [Git](https://git-scm.com)
-	- This project uses **Git** for version-control and for tracking changes in source code during development. 
+- [Git](https://git-scm.com) - This project uses **Git** for version-control and for tracking changes in source code during development. 
 
-- [GitHub](https://github.com/)
-    	- This project uses **GitHub** as a remote code repository.
+- [GitHub](https://github.com/) - This project uses **GitHub** as a remote code repository.
 
-- [GitHub Pages](https://pages.github.com/)
-    	- This project uses **GitHub Pages** for deployment.
+- [GitHub Pages](https://pages.github.com/) - This project uses **GitHub Pages** for deployment.
 
 ## Testing
 
-(under construction)
+(under construction))
+
+- Testing is blank, how did you test it ? Browsers? Sizes? Mobiles? Did you encounter any bugs ? As a potentional employer or assesor, i want to HEAR your thoughts on things you tested, and bugs you found. If you say bugs you know if it's even better or explain how you fixed bugs etc on the road. This shows you understand the code you wrote :slightly_smiling_face:  There is nothing wrong in say i have this `bug` but not sure why but it looks like something related to -> Insert some links to research
+
+You can also test the page with chrome (Inspect it press the ... and select -> Audits. Select the following (Desktop, Performance, Best Practices, Accesibility, No throttling, Clear Storage. Then run it.
+Chrome will TELL you things it picks up like your photo optimizations etc.
 
 ## Deployment
 
@@ -135,9 +130,9 @@ A female English-speaking expat in the South of France, who relocated with her h
 3. The project’s source file was published from GitHub repository to GitHub pages using GitHub default settings via the master branch
 
 4. GitHub Pages was then enabled to publish the site from the master branch following this path:
-	A. GitHub repository settings page
-	B. At GitHub Pages Repository box (on Settings) the master branch was selected form the dropdown menu
-	C. Action was saved by clicking the save button
+	1. GitHub repository settings page
+	2. At GitHub Pages Repository box (on Settings) the master branch was selected form the dropdown menu
+	3. Action was saved by clicking the save button
 
 5. The Project’s source file is now published as a site on GitHub Pages at: [Yoga & Sound Immersion](https://kescardoso.github.io/MS1-yinsoundsouth/)
 
