@@ -1,16 +1,14 @@
 # Project: YIN & SOUND IN THE SOUTH
 
-My first milestone project for Code Institute is a prototype for a real product: A static landing page for our Yin-Yoga and Sound Healing Training Immersion in the South of France. Besides being a student at Code Institute and future Software Developer and UX Extraordinaire, I have been a Yoga Teacher and Sound Therapist for the past 5 years here in France.
+ [View this website on GitHub Pages](https://kescardoso.github.io/MS1-yinsoundsouth/)
 
-One of my personal dreams has been to create seasonal retreats and immersive experience-training programs for aspiring yoga teachers and sound healing practitioners. In the beginning of 2019 I found the perfect partner (a sister-like yoga teacher and entrepreneur with a bunch of experience and a lot of love in her heart) and the perfect location (a permaculture retreat center in the French Alps, one-hour drive from Nice). On this first phase of project development we are doing everything ourselves to keep costs and base-investments low, and I am in charge of web development and digital communications (using my web developing skills and previous marketing experience). 
+My first milestone project for Code Institute is a prototype for a real product: A static landing page for our  a Yin-Yoga and Sound Healing Training Immersion in the South of France. Besides being a student at Code Institute and future Software Developer and UX Extraordinaire, I have been a Yoga Teacher and Sound Therapist for the past 5 years here in France.
 
-For this project I wire-framed on Figma and used Cloud9, GitHub and GitHub Pages for developing a Bootstrap4 mobile-first responsive website (all links and credits below).
+That means that this project has educational and  entrepreneurial goals (this Yoga and Sound Immersion is actually a real service being developed by me and my teacher partner). For this project development I will be applying my web development and marketing communications skills to create a fully functioning responsive website, which will present the program and sell registrations online.
 
 Thanks for appreciating this project with me :)
 
 [Kes Cardoso](http://www.kescardoso.com)
-
-
 
 ## My UX Process
 
@@ -64,11 +62,7 @@ A female English-speaking expat in the South of France, who relocated with her h
 - [Link to my Wireframe on Figma](https://www.figma.com/proto/SBGSRVoWq5737gajqHsn5VjN/YT?node-id=0%3A1&scaling=min-zoom)
 	- This was my first wire-framing experience and it was very positive. It took me sometime and frustration to learn how to use Figma, but once I understood it, wire-framing became a must. After finishing my wire-framed mockup website, I felt very good about going into development because I knew exactly the appearance I wanted to achieve with Bootstrap. I made some adjustments as I developed the webpage, but wire-framing definitely made the development phase a lot easier and fun!
 
-- [Link to my GitHub Repository](https://github.com/kescardoso/MS1-yinsoundsouth)
-
-- [Link to my deployment on GitHubPages](https://kescardoso.github.io/MS1-yinsoundsouth/)
-
-
+- [Link to my deployment on GitHub Pages](https://kescardoso.github.io/MS1-yinsoundsouth/)
 
 ## Features
  
@@ -76,47 +70,76 @@ A female English-speaking expat in the South of France, who relocated with her h
 
 - **Feature 1 - Responsive and Fixed Top Navbar:** allows user to go over the entire content and find precisely what they need with automatic scroll/jump on page.
 
-- **Feature 2 - Inquire/Contact Button with Modal:** allows user to send an inquire or contact the staff/mentors with a responsive pop-up contact form (modal).
+- **Feature 2 - Smooth Scrolling:**  automatic smooth scrolling animation on click at navbar links (made possible with CSS).
 
-- **Feature 3 - Enroll Button:** allows user to register by sending secured online payment via PayPal, either via the button at the footer of the modal, or via the PayPal icon in the center of the modal (which is a FontAwesome icon used as a button).
+- **Feature 3 - Jumbotron with Register Now Button:** presents an immediate call to action for visitors to optimize conversions.
 
-- **Feature 3 - Newsletter Button:** allows user to sign up to our mailing list via mail chimp with a popup form (modal has integration with Mailchimp).
+- **Feature 4 - Mentor’s Read More Button:** in the Mentors section on mobile/tablet viewing, the read more button allows the content to be more user friendly for small to medium screens.
+
+- **Feature 5 - Daily Schedule Table:** allows user to understand the daily schedule for this program in a structural and logical way.
+
+- **Feature 6 - Price/Packages Table:** allows user to understand the four different pricing options in a structural and logical way.
+
+- **Feature 7 - Location Video:** allows user to understand the four different pricing options in a structural and logical way.
+
+- **Feature 8 - Enroll Button:** it optimizes conversion by allowing  user to register to the program by sending secured online payment via PayPal, either via the button at the footer of the modal, or via the PayPal icon in the center of the modal (which is a FontAwesome icon used as a button).
+
+- **Feature 9 - Inquire/Contact Button with Modal and Form:** allows (but not functioning yet: not linked to email) user to send an inquire or contact the staff/mentors with a responsive contact form inside a modal.
+
+- **Feature 10 - Newsletter Button:** allows user to sign up to our mailing list via mail chimp with a popup form (modal has integration with Mailchimp).
 
 ### 2. Features Left to Implement
 
-- **Contact form function:** to install contact form functionality with php, so users can actually get in touch with mentors via the modal contact form.
+- **Contact form function:** to install real contact form functionality, so users can actually get in touch with staff via the modal contact form.
 
-- **Smooth nav link scrolling with jQuery:** to install automatic smooth scrolling animation on click at navbar links (instead of the current page jump).
+- **Terms and conditions page:** finish writing, creating and linking a legal terms and conditions page explaining for transactions and privacy.
 
-- **Terms and Conditions page:** finish writing, creating and linking a legal terms and conditions page explaining for transactions and privacy.
-
-- **Hide Youtube title overlay:** Youtube embedded videos automatically display a photo and video title on top of the video; I want to be able to hide it.
-
-
+- **Hide Youtube branding overlay:** Youtube embedded videos automatically display a photo and video title on top of the video; I want to be able to hide it.
 
 ## Technologies Used
 
-- [Bootstrap4](https://getbootstrap.com/)
-    	- This project uses the **Bootstrap4** Framework and all its documentation (CSS and JS) to facilitate a responsive mobile-first design and UX experience.
+- [Bootstrap](https://getbootstrap.com/)
+    	- This project uses the **Bootstrap** Framework to facilitate a responsive mobile-first design and UX experience.
 
 - [Cloud9](https://c9.io)
-    	- The project uses **Cloud9** as a development and testing environment.
+    	- This project uses **Cloud9** as a development and testing environment.
 
-- [GitHub](https://github.com)
-    	- The project uses **GitHub** as a secondary repository environment.
+- [Google Fonts](https://fonts.google.com/)
+	- This project uses **Google Fonts** to style the website fonts.
+
+- [FontAwesome](https://fontawesome.com/)
+	- This project uses **FontAwesome** to style social links and form labels.
+
+- [YouTube](https://youtube.com/)
+	- This project uses **Youtube** to host the location video.
+
+- [Git](https://git-scm.com)
+	- This project uses **Git** for version-control and for tracking changes in source code during development. 
+
+- [GitHub](https://github.com/)
+    	- This project uses **GitHub** as a remote code repository.
 
 - [GitHub Pages](https://pages.github.com/)
-    	- The project uses **GitHub Pages** for deployment.
-
-
+    	- This project uses **GitHub Pages** for deployment.
 
 ## Testing
 
-
+(under construction)
 
 ## Deployment
 
+1. This project was developed and stored in git using Cloud9
 
+2. The project’s source files was regularly pushed to [GitHub repository kescardoso/MS1-yinsoundsouth](https://github.com/kescardoso/MS1-yinsoundsouth)
+
+3. The project’s source file was published from GitHub repository to GitHub pages using GitHub default settings via the master branch
+
+4. GitHub Pages was then enabled to publish the site from the master branch following this path:
+	A. GitHub repository settings page
+	B. At GitHub Pages Repository box (on Settings) the master branch was selected form the dropdown menu
+	C. Action was saved by clicking the save button
+
+5. The Project’s source file is now published as a site on GitHub Pages at: [Yoga & Sound Immersion](https://kescardoso.github.io/MS1-yinsoundsouth/)
 
 ## Credits
 
@@ -128,10 +151,10 @@ A female English-speaking expat in the South of France, who relocated with her h
 
 ### Media
 These photos below are stock-free images obtained from [Unsplash](https://unsplash.com/):
-- (1) [Mountain Range](https://unsplash.com/photos/mMzVTy2V1Do)
-- (2) [Forest Girl](https://unsplash.com/photos/yIEN_h5ZC58)
-- (3) [Orange Cat](https://unsplash.com/photos/XpiPvnx0H5M)
-- (4) [Sunset Yoga](https://unsplash.com/photos/I2YSmEUAgDY)
+- [Mountain Range](https://unsplash.com/photos/mMzVTy2V1Do)
+- [Forest Girl](https://unsplash.com/photos/yIEN_h5ZC58)
+- [Orange Cat](https://unsplash.com/photos/XpiPvnx0H5M)
+- [Sunset Yoga](https://unsplash.com/photos/I2YSmEUAgDY)
 
 ### Acknowledgements
-- I received inspiration for this project from one of our Bootstrap class work at Code Institute (Whisky Drop), which originated my Tea Drop website.
+- I received inspiration for this project from our Bootstrap class work at Code Institute (Whisky Drop), which originated my Tea Drop website.
