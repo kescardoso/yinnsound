@@ -114,12 +114,7 @@ A female English-speaking expat in the South of France, who relocated with her h
 
 ## Testing
 
-(under construction))
-
-- Testing is blank, how did you test it ? Browsers? Sizes? Mobiles? Did you encounter any bugs ? As a potentional employer or assesor, i want to HEAR your thoughts on things you tested, and bugs you found. If you say bugs you know if it's even better or explain how you fixed bugs etc on the road. This shows you understand the code you wrote :slightly_smiling_face:  There is nothing wrong in say i have this `bug` but not sure why but it looks like something related to -> Insert some links to research
-
-You can also test the page with chrome (Inspect it press the ... and select -> Audits. Select the following (Desktop, Performance, Best Practices, Accesibility, No throttling, Clear Storage. Then run it.
-Chrome will TELL you things it picks up like your photo optimizations etc.
+(under construction)
 
 ## Deployment
 
@@ -127,9 +122,9 @@ Chrome will TELL you things it picks up like your photo optimizations etc.
 
 2. The project’s source files was regularly pushed to [GitHub repository kescardoso/MS1-yinsoundsouth](https://github.com/kescardoso/MS1-yinsoundsouth)
 
-3. The project’s source file was published from GitHub repository to GitHub pages using GitHub default settings via the master branch
+3. The project’s source file was published from GitHub repository to GitHub pages using GitHub default settings via the `master` branch
 
-4. GitHub Pages was then enabled to publish the site from the master branch following this path:
+4. GitHub Pages was then enabled to publish the site from the `master` branch following this path:
 	1. GitHub repository settings page
 	2. At GitHub Pages Repository box (on Settings) the master branch was selected form the dropdown menu
 	3. Action was saved by clicking the save button
