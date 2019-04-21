@@ -114,6 +114,8 @@ A female English-speaking expat in the South of France, who relocated with her h
 
 ## Testing
 
+Please, click on the linked titles of each test to open and see a screencast (gif file) on your browser.
+
 ### Test 1 - [Desktop Features Overview](https://preview.c9users.io/kescardoso/milestone1-frontendweb/testing/Test1-DesktopFunctionsOverview.gif?_c9_id=livepreview0&_c9_host=https://ide.c9.io)
 
 This Screencast shows how the features on the Desktop version of this site are user friendly and functioning: Navbar, menus, page scrolling, vide, images, tables, forms.
