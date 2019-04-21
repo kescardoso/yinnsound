@@ -2,7 +2,7 @@
 
  [View this website on GitHub Pages](https://kescardoso.github.io/MS1-yinsoundsouth/)
 
-My first milestone project for Code Institute is a prototype for a real product: A static landing page for our  a Yin-Yoga and Sound Healing Training Immersion in the South of France. Besides being a student at Code Institute and future Software Developer and UX Extraordinaire, I have been a Yoga Teacher and Sound Therapist for the past 5 years here in France.
+My first milestone project for Code Institute is a prototype for a real product: A static landing page for our Yin-Yoga and Sound Healing Training Immersion in the South of France. Besides being a student at Code Institute and future Software Developer and UX Extraordinaire, I have been a Yoga Teacher and Sound Therapist for the past 5 years here in France.
 
 That means that this project has educational and  entrepreneurial goals (this Yoga and Sound Immersion is actually a real service being developed by me and my teacher partner). For this project development I will be applying my web development and marketing communications skills to create a fully functioning responsive website, which will present the program and sell registrations online.
 
@@ -33,7 +33,7 @@ This client is looking for information online on how to get trained or improve t
 
 They need a well explained presentation, in form of an online webpage, that lays out all the important details on how / where / when they can achieve their goals and what they will get as a result if they sign up to our program. They also expect to have easy access to registration and online payment options, as well as easy contact to inquire about the program if they are unsure or need assistance making a decision.
 
-### 3. How YIN & SOUND IN THE SOUTH will help clients achieve their goals
+### 3. How this project will help clients achieve their goals
 
 - This website is completely responsive; it has been carefully optimized and tested for all devices: mobile, tablet and desktop.
 - This website is a user-friendly, one scrolling page with a top-fixed navbar, presenting wide space with text, images, videos and grids to help and guide clients into finding the information they are looking for.
@@ -96,7 +96,7 @@ A female English-speaking expat in the South of France, who relocated with her h
 
 ## Technologies Used
 
-- [Bootstrap](https://getbootstrap.com/) - This project uses the **Bootstrap** Framework to facilitate a responsive mobile-first design and UX experience.
+- [Bootstrap](https://getbootstrap.com/) - This project uses the **Bootstrap** Framework to facilitate a responsive mobile-first design and user experience.
 
 - [Cloud9](https://c9.io) - This project uses **Cloud9** as a development and testing environment.
 
@@ -126,7 +126,7 @@ A female English-speaking expat in the South of France, who relocated with her h
 
 4. GitHub Pages was then enabled to publish the site from the `master` branch following this path:
 	1. GitHub repository settings page
-	2. At GitHub Pages Repository box (on Settings) the master branch was selected form the dropdown menu
+	2. At GitHub Pages Repository box (on Settings) the master branch was selected from the dropdown menu
 	3. Action was saved by clicking the save button
 
 5. The Project’s source file is now published as a site on GitHub Pages at: [Yoga & Sound Immersion](https://kescardoso.github.io/MS1-yinsoundsouth/)
