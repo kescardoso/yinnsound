@@ -114,38 +114,49 @@ A female English-speaking expat in the South of France, who relocated with her h
 
 ## Testing
 
-# Test 1 - [Desktop Features Overview](https://preview.c9users.io/kescardoso/milestone1-frontendweb/testing/Test1-DesktopFunctionsOverview.gif?_c9_id=livepreview0&_c9_host=https://ide.c9.io)
-	This Screencast shows how the features on the Desktop version of this site are user friendly and functioning: Navbar, menus, page scrolling, vide, images, tables, forms.
+### Test 1 - [Desktop Features Overview](https://preview.c9users.io/kescardoso/milestone1-frontendweb/testing/Test1-DesktopFunctionsOverview.gif?_c9_id=livepreview0&_c9_host=https://ide.c9.io)
 
-# Test 2 - [Mobile Responsiveness](https://preview.c9users.io/kescardoso/milestone1-frontendweb/testing/Test2-ResponsivinessMobile.gif?_c9_id=livepreview1&_c9_host=https://ide.c9.io)
-	This Screencast shows how the features on the Mobile version of this site are responsive, user friendly and functioning: Navbar, menus, page scrolling, vide, images, tables, forms.
+This Screencast shows how the features on the Desktop version of this site are user friendly and functioning: Navbar, menus, page scrolling, vide, images, tables, forms.
 
-# Test 3 - [Tablet Responsiveness](https://preview.c9users.io/kescardoso/milestone1-frontendweb/testing/Test3-ResponsivinessTablet.gif?_c9_id=livepreview2&_c9_host=https://ide.c9.io)
-	This Screencast shows how the features on the Tablet version of this site are responsive, user friendly and functioning: Navbar, menus, page scrolling, vide, images, tables, forms.
+### Test 2 - [Mobile Responsiveness](https://preview.c9users.io/kescardoso/milestone1-frontendweb/testing/Test2-ResponsivinessMobile.gif?_c9_id=livepreview1&_c9_host=https://ide.c9.io)
 
-# Test 4 - [Mentors Session](https://preview.c9users.io/kescardoso/milestone1-frontendweb/testing/Test4-Mentors.gif?_c9_id=livepreview3&_c9_host=https://ide.c9.io)
-	This Screencast shows how the navbar menu scrolls smoothly to the Mentors session where information about the teachers can be easily found by the user.
+This Screencast shows how the features on the Mobile version of this site are responsive, user friendly and functioning: Navbar, menus, page scrolling, vide, images, tables, forms.
 
-# Test 5 - [Program Session](https://preview.c9users.io/kescardoso/milestone1-frontendweb/testing/Test5-Program.gif?_c9_id=livepreview4&_c9_host=https://ide.c9.io)
-	This Screencast shows how the navbar menu scrolls smoothly to the Program session where information about the program, who is it for and its outcomes can be easily found by the user.
+### Test 3 - [Tablet Responsiveness](https://preview.c9users.io/kescardoso/milestone1-frontendweb/testing/Test3-ResponsivinessTablet.gif?_c9_id=livepreview2&_c9_host=https://ide.c9.io)
 
-# Test 6 - [Schedule Session](https://preview.c9users.io/kescardoso/milestone1-frontendweb/testing/Test6-Schedule.gif?_c9_id=livepreview5&_c9_host=https://ide.c9.io)
-	This Screencast shows how the navbar menu scrolls smoothly to the Schedule session where information about the schedule is displayed in a table with easy access for the user.
+This Screencast shows how the features on the Tablet version of this site are responsive, user friendly and functioning: Navbar, menus, page scrolling, vide, images, tables, forms.
 
-# Test 7 - [Schedule Session](https://preview.c9users.io/kescardoso/milestone1-frontendweb/testing/Test7-Location.gif?_c9_id=livepreview6&_c9_host=https://ide.c9.io)
-	This Screencast shows how the navbar menu scrolls smoothly to the Location session where information about the property where the training is held, with a video, is displayed and can be easily accessed by the user.
+### Test 4 - [Mentors Session](https://preview.c9users.io/kescardoso/milestone1-frontendweb/testing/Test4-Mentors.gif?_c9_id=livepreview3&_c9_host=https://ide.c9.io)
 
-# Test 8 - [Prices & Dates Session](https://preview.c9users.io/kescardoso/milestone1-frontendweb/testing/Test8-PricesDates.gif?_c9_id=livepreview7&_c9_host=https://ide.c9.io)
-	This Screencast shows how the navbar menu scrolls smoothly to thePrices & Dates session where information about the packages and upcoming immersions are displayed in table format for the user’s  easy access.
+This Screencast shows how the navbar menu scrolls smoothly to the Mentors session where information about the teachers can be easily found by the user.
 
-# Test 9 - [Enroll / Register Button and Form](https://preview.c9users.io/kescardoso/milestone1-frontendweb/testing/Test9-Enroll-Register.gif?_c9_id=livepreview8&_c9_host=https://ide.c9.io)
-	This Screencast shows how the Enroll/Contact button on the navbar menu, and the Register button on the Call Out session scroll smoothly to the Enroll (CTA) session where user can easily send online registration via PayPal checkout through a modal form either via the PayPal FontAwesome button in the center of the modal, or the form button on the footer of the modal (form fully functioning and linked).
+### Test 5 - [Program Session](https://preview.c9users.io/kescardoso/milestone1-frontendweb/testing/Test5-Program.gif?_c9_id=livepreview4&_c9_host=https://ide.c9.io)
 
-# Test 10 - [Contact Button and Form](https://preview.c9users.io/kescardoso/milestone1-frontendweb/testing/Test10-Contact.gif?_c9_id=livepreview9&_c9_host=https://ide.c9.io)
-	This Screencast shows how the Enroll/Contact button on the navbar menu, and the Register button on the Call Out session scroll smoothly to the (CTA) session where user can find the Contact Button and easily send a message to staff through a modal form. Contact Form shows effectively the validation functioning and warning alerts. Bugs: Final success message not implemented, and contact email functionality not yet linked at this stage.
+This Screencast shows how the navbar menu scrolls smoothly to the Program session where information about the program, who is it for and its outcomes can be easily found by the user.
 
-# Test 11 - [Newsletter Button and Form](https://preview.c9users.io/kescardoso/milestone1-frontendweb/testing/Test11-Newsletter.gif?_c9_id=livepreview10&_c9_host=https://ide.c9.io)
-	This Screencast shows how the Enroll/Contact button on the navbar menu, and the Register button on the Call Out session scroll smoothly to the (CTA) session where user can find the Newsletter button and easily send their subscription to Mailchimp through a modal form (fully functioning and linked).
+### Test 6 - [Schedule Session](https://preview.c9users.io/kescardoso/milestone1-frontendweb/testing/Test6-Schedule.gif?_c9_id=livepreview5&_c9_host=https://ide.c9.io)
+
+This Screencast shows how the navbar menu scrolls smoothly to the Schedule session where information about the schedule is displayed in a table with easy access for the user.
+
+### Test 7 - [Schedule Session](https://preview.c9users.io/kescardoso/milestone1-frontendweb/testing/Test7-Location.gif?_c9_id=livepreview6&_c9_host=https://ide.c9.io)
+
+This Screencast shows how the navbar menu scrolls smoothly to the Location session where information about the property where the training is held, with a video, is displayed and can be easily accessed by the user.
+
+### Test 8 - [Prices & Dates Session](https://preview.c9users.io/kescardoso/milestone1-frontendweb/testing/Test8-PricesDates.gif?_c9_id=livepreview7&_c9_host=https://ide.c9.io)
+
+This Screencast shows how the navbar menu scrolls smoothly to thePrices & Dates session where information about the packages and upcoming immersions are displayed in table format for the user’s  easy access.
+
+### Test 9 - [Enroll / Register Button and Form](https://preview.c9users.io/kescardoso/milestone1-frontendweb/testing/Test9-Enroll-Register.gif?_c9_id=livepreview8&_c9_host=https://ide.c9.io)
+
+This Screencast shows how the Enroll/Contact button on the navbar menu, and the Register button on the Call Out session scroll smoothly to the Enroll (CTA) session where user can easily send online registration via PayPal checkout through a modal form either via the PayPal FontAwesome button in the center of the modal, or the form button on the footer of the modal (form fully functioning and linked).
+
+### Test 10 - [Contact Button and Form](https://preview.c9users.io/kescardoso/milestone1-frontendweb/testing/Test10-Contact.gif?_c9_id=livepreview9&_c9_host=https://ide.c9.io)
+
+This Screencast shows how the Enroll/Contact button on the navbar menu, and the Register button on the Call Out session scroll smoothly to the (CTA) session where user can find the Contact Button and easily send a message to staff through a modal form. Contact Form shows effectively the validation functioning and warning alerts. Bugs: Final success message not implemented, and contact email functionality not yet linked at this stage.
+
+### Test 11 - [Newsletter Button and Form](https://preview.c9users.io/kescardoso/milestone1-frontendweb/testing/Test11-Newsletter.gif?_c9_id=livepreview10&_c9_host=https://ide.c9.io)
+
+This Screencast shows how the Enroll/Contact button on the navbar menu, and the Register button on the Call Out session scroll smoothly to the (CTA) session where user can find the Newsletter button and easily send their subscription to Mailchimp through a modal form (fully functioning and linked).
 
 ## Deployment
 
