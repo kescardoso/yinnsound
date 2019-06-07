@@ -10,16 +10,16 @@ Thanks for appreciating this project with me :)
 
 [Kes Cardoso](http://www.kescardoso.com)
 
-## My UX Process
+## UX
 
-### 1. Who is our target client (avatar)
+### 1. Target client
 
 #### This website is targeted to:
 - Qualified and aspiring yoga teachers, wishing to improve their skills and teach Yin Yoga with Sound Healing in their communities;
 - Students and practitioners of yoga, fitness or alternative healing modalities wishing to develop a deeper understanding of Yin Yoga and Sound Healing for their own personal or vocational purposes;
 - Regular clients who love yoga and are looking for a wellness retreat or short experience-based vacation in nature.
 
-#### Our demographic is (from larger scope to main avatar):
+#### Our demographic:
 - French and International clients (mostly from: Europe and USA) between 25-55 years old;
 - English-speaking expats living in the South of France (Nice, Antibes, Cannes, Monaco, Menton and surrounding areas, as well as Paris);
 - Our current yoga students and clients from Nice and surrounding area interested in going deep into their practice (already introduced to our business);
