@@ -18,10 +18,17 @@
 
     <!-- My Custom CSS -->
     <link rel="stylesheet" href="assets/css/style.css" type="text/css" />
+    
+    <!-- Email JS -->
+    <script type="text/javascript" src="https://cdn.emailjs.com/sdk/2.3.2/email.min.js"></script>
+    <script type="text/javascript">
+        (function(){
+            emailjs.init("user_16XKO7dyaAbNDyssVAxvx");
+        })();
+    </script>
 </head>
 
 <body>
-    
     <!--Navigation-->
     <div class="container-fluid nav-container">
         <nav class="navbar fixed-top navbar-light navbar-expand-lg bg-light">
@@ -592,7 +599,7 @@
     </div>
     
     <!-- ModalContactForm -->
-    <!-- This Contact Form does not have sending email functionality yet (info not covered on my stage) -->
+    <!-- This Contact form is functional and uses a free account from EmailJs -->
     <div class="modal fade" id="modalContactForm" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-dialog" role="document">
             <div class="modal-content">
@@ -604,29 +611,28 @@
                     </button>
                 </div>
                 
-                <form class="needs-validation">
+                <form id="contactMe" onsubmit="return sendMail(this);" class="needs-validation">
                 
                     <div class="modal-body mx-3">
                         <div class="md-form mb-5">
                             <i class="fas fa-user"></i> 
                             <label data-error="wrong" data-success="right" for="form34">Your name</label>
-                            <input type="text" id="form34" class="form-control validate" required>
+                            <input type="text" id="form34 from_name" name="from_name" class="form-control validate" required>
                         </div>
                         <div class="md-form mb-5">
                           <i class="fas fa-envelope"></i> 
                           <label data-error="wrong" data-success="right" for="form29">Your email</label>
-                          <input type="email" id="form29" class="form-control validate" required>
+                          <input type="email" id="form29 from_email" name="from_email" class="form-control validate" required>
                         </div>
                         <div class="md-form">
                           <i class="fas fa-pencil-alt"></i> 
                           <label data-error="wrong" data-success="right" for="form8">Your message</label>
-                          <textarea id="form8" class="md-textarea form-control" rows="4" required></textarea>
+                          <textarea id="form8 message_html" name="message_html" class="md-textarea form-control" rows="4" required></textarea>
                         </div>
                     </div>
                       
                     <div class="modal-footer d-flex justify-content-center">
                         <button type="submit" class="btn btn-register btn-lg">Send</button>
-                        <!-- Send button is funtioning but no message will be sent (form not linked to email provider) -->
                     </div>
                     
                 </form>
@@ -739,7 +745,7 @@
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
-    
+    <script src="assets/js/sendEmail.js"></script>
 </body>
 
 </html>
