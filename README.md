@@ -88,7 +88,7 @@ A female English-speaking expat in the South of France, who relocated with her h
 
 ### 2. Features Left to Implement
 
-- **Contact form function:** to install real contact form functionality, so users can actually get in touch with staff via the modal contact form.
+- **Contact form function:** install confirmation of sent email for user to the modal contact form.
 
 - **Terms and conditions page:** finish writing, creating and linking a legal terms and conditions page explaining for transactions and privacy.
 
@@ -105,6 +105,8 @@ A female English-speaking expat in the South of France, who relocated with her h
 - [FontAwesome](https://fontawesome.com/) - This project uses **FontAwesome** to style social links and form labels.
 
 - [YouTube](https://youtube.com/) - This project uses **Youtube** to host the location video.
+ 
+- [EmailJs](https://www.emailjs.com/) - This project uses **EmailJs** to directly send email from client-side via contact form with Javascript.
 
 - [Git](https://git-scm.com) - This project uses **Git** for version-control and for tracking changes in source code during development. 
 
