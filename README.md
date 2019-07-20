@@ -1,6 +1,6 @@
 # Project: YIN & SOUND IN THE SOUTH
 
- [View this website on GitHub Pages](https://kescardoso.github.io/MS1-yinsoundsouth/)
+ [View this website on GitHub Pages](https://kescardoso.github.io/ms1-yinnsound/)
 
 My first milestone project for Code Institute is a prototype for a real product: A static landing page for our Yin-Yoga and Sound Healing Training Immersion in the South of France. Besides being a student at Code Institute and future Software Developer and UX Extraordinaire, I have been a Yoga Teacher and Sound Therapist for the past 5 years here in France.
 
